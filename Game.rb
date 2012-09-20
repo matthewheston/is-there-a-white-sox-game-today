@@ -4,7 +4,7 @@ module Game
     @@games = games
   end
 
-  def self.today?
+  def self.today
     @@games.find do |game|
       game.dtstart.new_offset(DateTime.now.offset).year == DateTime.now.year and
       game.dtstart.new_offset(DateTime.now.offset).month == DateTime.now.month and

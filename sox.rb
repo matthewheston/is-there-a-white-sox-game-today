@@ -9,9 +9,6 @@ configure do
 end
 
 get '/' do
-  if Game.today?
-      "There is a game today."
-    else
-      "There is not a game today"
-    end
+  @today = Game.today
+  erb :index
 end

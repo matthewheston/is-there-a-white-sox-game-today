@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Is There A White Sox Game Today?</title>
+</head>
+<body>
+
+  <div class="today">Today is <%= DateTime.now.strftime("%A, %B %-d, %Y") %></div>
+  <h1>Is There A White Sox Game Today?</div>
+  <div class="today"><%= if @today then "YES at %{time}" % {:time => @today.dtstart.strftime("%l:%M %p")} else "NO" end%></div>
+
+</body>
+</html>
