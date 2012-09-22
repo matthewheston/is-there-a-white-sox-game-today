@@ -7,7 +7,7 @@
 </head>
 <body>
 
-  <div class="center"  id="today">Today is <%= DateTime.now.strftime("%A, %B %-d, %Y") %></div>
+  <div class="center"  id="today">Today is <%= DateTime.now.in_time_zone('Central Time (US & Canada)').strftime("%A, %B %-d, %Y") %></div>
   <h1 class="center">Is There A White Sox Game Today?</h1>
   <div class="center" id="isthere">
     <%= if @today then

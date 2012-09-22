@@ -6,9 +6,11 @@ module Game
 
   def self.today
     @@games.find do |game|
-      game.dtstart.new_offset(DateTime.now.offset).year == DateTime.now.year and
-      game.dtstart.new_offset(DateTime.now.offset).month == DateTime.now.month and
-      game.dtstart.new_offset(DateTime.now.offset).day == DateTime.now.day
+      central_game = game.dtstart.in_time_zone('Central Time (US & Canada)')
+      central_now = DateTime.now.in_time_zone('Central Time (US & Canada)')
+      central_game.year == central_now.year and
+      central_game.month == central_now.month and
+      central_game.day == central_now.day
     end
   end
 
