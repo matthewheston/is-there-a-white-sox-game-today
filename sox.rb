@@ -13,3 +13,7 @@ get '/' do
   @today = Game.today
   erb :index
 end
+
+get '/about' do
+  send_file File.join(settings.public_folder, 'about.html')
+end
