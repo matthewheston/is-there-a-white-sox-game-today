@@ -1,5 +1,4 @@
 require 'sinatra'
-require 'icalendar'
 require 'ri_cal'
 require './Game.rb'
 
