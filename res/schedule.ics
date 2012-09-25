@@ -3,7 +3,7 @@ PRODID:-//MLB.com//Schedule Calendar 0.001//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:2012 Chicago White Sox Home Schedule
+X-WR-CALNAME:2012 Chicago White Sox Schedule
 X-WR-TIMEZONE:America/New_York
 BEGIN:VTIMEZONE
 TZID:America/New_York
@@ -26,7 +26,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120305T150500
 DTEND;TZID=America/New_York:20120305T180500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332126@mlb.com
 CREATED:20111130T212816Z
 DESCRIPTION:Spring Training: LA Dodgers 6 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_05_lanmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.com\nLocal Radio: WSCR 670
@@ -38,9 +38,23 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_05_lanmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120306T150500
+DTEND;TZID=America/New_York:20120306T180500
+DTSTAMP:20120925T170413Z
+UID:332137@mlb.com
+CREATED:20111130T212818Z
+DESCRIPTION:Spring Training: Chi White Sox 2 - LA Angels 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_06_chamlb_anamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLBN (delay), MLB.TV
+LAST-MODIFIED:20120406T143208Z
+LOCATION:Tempe Diablo Stadium, Tempe
+SUMMARY:Spring Training: Chi White Sox 2 - LA Angels 6
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_06_chamlb_anamlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120307T150500
 DTEND;TZID=America/New_York:20120307T180500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332159@mlb.com
 CREATED:20111130T212821Z
 DESCRIPTION:Spring Training: Milwaukee 10 - Chi White Sox 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_07_milmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.com
@@ -52,12 +66,26 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_07_milmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120308T150500
+DTEND;TZID=America/New_York:20120308T180500
+DTSTAMP:20120925T170413Z
+UID:332171@mlb.com
+CREATED:20111130T212823Z
+DESCRIPTION:Spring Training: Chi White Sox 6 - Texas 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_08_chamlb_texmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n
+LAST-MODIFIED:20120504T174959Z
+LOCATION:Surprise Stadium, Surprise
+SUMMARY:Spring Training: Chi White Sox 6 - Texas 3
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_08_chamlb_texmlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120309T150500
 DTEND;TZID=America/New_York:20120309T180500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332187@mlb.com
 CREATED:20111130T212825Z
-DESCRIPTION:Spring Training: Chi Cubs 5 - Chi White Sox 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_09_chnmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.TV, WGN, MLBN (delay)\nLocal Radio: WSCR 670
+DESCRIPTION:Spring Training: Chi Cubs 5 - Chi White Sox 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_09_chnmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: WGN, MLB.TV, MLBN (delay)\nLocal Radio: WSCR 670
 LAST-MODIFIED:20120417T155510Z
 LOCATION:Camelback Ranch, Glendale
 SUMMARY:Spring Training: Chi Cubs 5 - Chi White Sox 1
@@ -68,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120310T150500
 DTEND;TZID=America/New_York:20120310T180500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332216@mlb.com
 CREATED:20111130T212829Z
 DESCRIPTION:Spring Training: Texas 2 - Chi White Sox 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_10_texmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.com\nLocal Radio: WSCR 670
@@ -82,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120310T210500
 DTEND;TZID=America/New_York:20120311T000500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332201@mlb.com
 CREATED:20111130T212827Z
 DESCRIPTION:Spring Training: LA Dodgers 10 - Chi White Sox 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_10_lanmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n
@@ -94,9 +122,23 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_10_lanmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120311T161000
+DTEND;TZID=America/New_York:20120311T191000
+DTSTAMP:20120925T170413Z
+UID:332222@mlb.com
+CREATED:20111130T212830Z
+DESCRIPTION:Spring Training: Chi White Sox 2 - Colorado 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_11_chamlb_colmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n
+LAST-MODIFIED:20120319T163430Z
+LOCATION:Salt River Fields at Talking Stick, Scottsdale
+SUMMARY:Spring Training: Chi White Sox 2 - Colorado 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_11_chamlb_colmlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120312T160500
 DTEND;TZID=America/New_York:20120312T190500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332246@mlb.com
 CREATED:20111130T212833Z
 DESCRIPTION:Spring Training: Oakland 9 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_12_oakmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.com
@@ -108,9 +150,23 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_12_oakmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120313T160500
+DTEND;TZID=America/New_York:20120313T190500
+DTSTAMP:20120925T170413Z
+UID:332255@mlb.com
+CREATED:20111130T212835Z
+DESCRIPTION:Spring Training: Chi White Sox 3 - San Diego 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_13_chamlb_sdnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n
+LAST-MODIFIED:20120514T195549Z
+LOCATION:Peoria Stadium, Peoria
+SUMMARY:Spring Training: Chi White Sox 3 - San Diego 6
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_13_chamlb_sdnmlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120314T160500
 DTEND;TZID=America/New_York:20120314T190500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332267@mlb.com
 CREATED:20111130T212837Z
 DESCRIPTION:Spring Training: LA Angels 7 - Chi White Sox 9\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_14_anamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.com
@@ -122,9 +178,37 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_14_anamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120315T160500
+DTEND;TZID=America/New_York:20120315T190500
+DTSTAMP:20120925T170413Z
+UID:332286@mlb.com
+CREATED:20111130T212839Z
+DESCRIPTION:Spring Training: Chi White Sox 3 - Cleveland 12\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_15_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.TV, MLBN (delay)
+LAST-MODIFIED:20120406T143808Z
+LOCATION:Goodyear Ballpark, Goodyear
+SUMMARY:Spring Training: Chi White Sox 3 - Cleveland 12
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_15_chamlb_clemlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120316T161000
+DTEND;TZID=America/New_York:20120316T191000
+DTSTAMP:20120925T170413Z
+UID:332301@mlb.com
+CREATED:20111130T212841Z
+DESCRIPTION:Spring Training: Chi White Sox 2 - Arizona 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_16_chamlb_arimlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n
+LAST-MODIFIED:20120316T224436Z
+LOCATION:Salt River Fields at Talking Stick, Scottsdale
+SUMMARY:Spring Training: Chi White Sox 2 - Arizona 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_16_chamlb_arimlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120317T160500
 DTEND;TZID=America/New_York:20120317T190500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332328@mlb.com
 CREATED:20111130T212845Z
 DESCRIPTION:Spring Training: Seattle 0 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_17_seamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.com\nLocal Radio: WSCR 670
@@ -136,9 +220,23 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_17_seamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120318T160500
+DTEND;TZID=America/New_York:20120318T190500
+DTSTAMP:20120925T170413Z
+UID:332339@mlb.com
+CREATED:20111130T212847Z
+DESCRIPTION:Spring Training: Chi White Sox 7 - Chi Cubs 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_18_chamlb_chnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal Radio: WSCR 670
+LAST-MODIFIED:20120318T233514Z
+LOCATION:HoHoKam Park, Mesa
+SUMMARY:Spring Training: Chi White Sox 7 - Chi Cubs 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_18_chamlb_chnmlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120319T160500
 DTEND;TZID=America/New_York:20120319T190500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332355@mlb.com
 CREATED:20111130T212849Z
 DESCRIPTION:Spring Training: Cincinnati 1 - Chi White Sox 0\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_19_cinmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.com
@@ -150,9 +248,23 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_19_cinmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120321T160500
+DTEND;TZID=America/New_York:20120321T190500
+DTSTAMP:20120925T170413Z
+UID:332378@mlb.com
+CREATED:20111130T212852Z
+DESCRIPTION:Spring Training: Chi White Sox 13 - Seattle 8\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_21_chamlb_seamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n
+LAST-MODIFIED:20120514T141916Z
+LOCATION:Peoria Stadium, Peoria
+SUMMARY:Spring Training: Chi White Sox 13 - Seattle 8
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_21_chamlb_seamlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120322T160500
 DTEND;TZID=America/New_York:20120322T190500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332391@mlb.com
 CREATED:20111130T212854Z
 DESCRIPTION:Spring Training: Kansas City 4 - Chi White Sox 16\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_22_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.com
@@ -166,10 +278,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120323T220500
 DTEND;TZID=America/New_York:20120324T010500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332402@mlb.com
 CREATED:20111130T212856Z
-DESCRIPTION:Spring Training: Arizona 3 - Chi White Sox 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_23_arimlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.TV, CSN, MLBN (delay)
+DESCRIPTION:Spring Training: Arizona 3 - Chi White Sox 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_23_arimlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: CSN, MLBN (delay), MLB.TV
 LAST-MODIFIED:20120406T144108Z
 LOCATION:Camelback Ranch, Glendale
 SUMMARY:Spring Training: Arizona 3 - Chi White Sox 6
@@ -180,11 +292,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120323T160500
 DTEND;TZID=America/New_York:20120323T190500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:335733@mlb.com
 CREATED:20120117T190854Z
 DESCRIPTION:Spring Training: LA Dodgers 17 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_23_lanmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n
-LAST-MODIFIED:20120324T051426Z
+LAST-MODIFIED:20120910T212331Z
 LOCATION:Kino Veterans Memorial Stadium, Tucson
 SUMMARY:Spring Training: LA Dodgers 17 - Chi White Sox 4
 TRANSP:TRANSPARENT
@@ -192,9 +304,23 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_23_lanmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120324T160500
+DTEND;TZID=America/New_York:20120324T190500
+DTSTAMP:20120925T170413Z
+UID:332418@mlb.com
+CREATED:20111130T212858Z
+DESCRIPTION:Spring Training: Chi White Sox 6 - Milwaukee 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_24_chamlb_milmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal Radio: WSCR 670
+LAST-MODIFIED:20120324T230005Z
+LOCATION:Maryvale Baseball Park, Phoenix
+SUMMARY:Spring Training: Chi White Sox 6 - Milwaukee 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_24_chamlb_milmlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120325T160500
 DTEND;TZID=America/New_York:20120325T190500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332445@mlb.com
 CREATED:20111130T212902Z
 DESCRIPTION:Spring Training: San Francisco 2 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_25_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: CSN, MLB.TV, MLBN (delay)\nLocal Radio: WSCR 670
@@ -206,9 +332,23 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_25_sfnmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120326T160500
+DTEND;TZID=America/New_York:20120326T190500
+DTSTAMP:20120925T170413Z
+UID:332449@mlb.com
+CREATED:20111130T212902Z
+DESCRIPTION:Spring Training: Chi White Sox 3 - LA Dodgers 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_26_chamlb_lanmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.TV, MLBN (delay)
+LAST-MODIFIED:20120406T144409Z
+LOCATION:Camelback Ranch, Glendale
+SUMMARY:Spring Training: Chi White Sox 3 - LA Dodgers 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_26_chamlb_lanmlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120327T160500
 DTEND;TZID=America/New_York:20120327T190500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332463@mlb.com
 CREATED:20111130T212904Z
 DESCRIPTION:Spring Training: Cleveland 1 - Chi White Sox 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_27_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.com
@@ -220,9 +360,23 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_27_clemlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120328T161000
+DTEND;TZID=America/New_York:20120328T191000
+DTSTAMP:20120925T170413Z
+UID:332477@mlb.com
+CREATED:20111130T212905Z
+DESCRIPTION:Spring Training: Chi White Sox 5 - Colorado 8\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_28_chamlb_colmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n
+LAST-MODIFIED:20120406T144609Z
+LOCATION:Salt River Fields at Talking Stick, Scottsdale
+SUMMARY:Spring Training: Chi White Sox 5 - Colorado 8
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_28_chamlb_colmlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120328T160500
 DTEND;TZID=America/New_York:20120328T190500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332485@mlb.com
 CREATED:20111130T212906Z
 DESCRIPTION:Spring Training: San Diego 13 - Chi White Sox 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_28_sdnmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.com
@@ -234,9 +388,37 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_28_sdnmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120329T160500
+DTEND;TZID=America/New_York:20120329T190500
+DTSTAMP:20120925T170413Z
+UID:332490@mlb.com
+CREATED:20111130T212907Z
+DESCRIPTION:Spring Training: Chi White Sox 3 - LA Dodgers 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_29_chamlb_lanmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: CSN, MLB.TV, MLBN (delay)
+LAST-MODIFIED:20120329T224559Z
+LOCATION:Camelback Ranch, Glendale
+SUMMARY:Spring Training: Chi White Sox 3 - LA Dodgers 1
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_29_chamlb_lanmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120330T210500
+DTEND;TZID=America/New_York:20120331T000500
+DTSTAMP:20120925T170413Z
+UID:332506@mlb.com
+CREATED:20111130T212908Z
+DESCRIPTION:Spring Training: Chi White Sox 2 - Kansas City 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_30_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n
+LAST-MODIFIED:20120514T142225Z
+LOCATION:Surprise Stadium, Surprise
+SUMMARY:Spring Training: Chi White Sox 2 - Kansas City 7
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_30_chamlb_kcamlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120331T160500
 DTEND;TZID=America/New_York:20120331T190500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332524@mlb.com
 CREATED:20111130T212911Z
 DESCRIPTION:Spring Training: Colorado 3 - Chi White Sox 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_31_colmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2012\n\nLocal TV: MLB.com\nLocal Radio: WSCR 670
@@ -248,9 +430,23 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_03_31_colmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120401T160500
+DTEND;TZID=America/New_York:20120401T190500
+DTSTAMP:20120925T170413Z
+UID:332536@mlb.com
+CREATED:20111130T212912Z
+DESCRIPTION:Spring Training: Chi White Sox 13 - Cincinnati 10\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_01_chamlb_cinmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: MLB.com, CSN, MLB.TV, MLBN\nLocal Radio: WSCR 670
+LAST-MODIFIED:20120401T232411Z
+LOCATION:Goodyear Ballpark, Goodyear
+SUMMARY:Spring Training: Chi White Sox 13 - Cincinnati 10
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_01_chamlb_cinmlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120402T150500
 DTEND;TZID=America/New_York:20120402T180500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:332555@mlb.com
 CREATED:20111130T212914Z
 DESCRIPTION:Spring Training: Milwaukee 13 - Chi White Sox 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_02_milmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: MLB.com
@@ -262,9 +458,107 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_02_milmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120403T200500
+DTEND;TZID=America/New_York:20120403T230500
+DTSTAMP:20120925T170413Z
+UID:325972@mlb.com
+CREATED:20111014T172355Z
+DESCRIPTION:Spring Training: Chi White Sox 5 - Houston 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_03_chamlb_houmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: CSN, MLB.TV, MLBN (delay)
+LAST-MODIFIED:20120514T142459Z
+LOCATION:Minute Maid Park, Houston
+SUMMARY:Spring Training: Chi White Sox 5 - Houston 1
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_03_chamlb_houmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120404T140500
+DTEND;TZID=America/New_York:20120404T170500
+DTSTAMP:20120925T170413Z
+UID:326076@mlb.com
+CREATED:20111014T172355Z
+DESCRIPTION:Spring Training: Chi White Sox 5 - Houston 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_04_chamlb_houmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n
+LAST-MODIFIED:20120417T192313Z
+LOCATION:Minute Maid Park, Houston
+SUMMARY:Spring Training: Chi White Sox 5 - Houston 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_04_chamlb_houmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120406T140500
+DTEND;TZID=America/New_York:20120406T170500
+DTSTAMP:20120925T170413Z
+UID:317740@mlb.com
+CREATED:20110908T191144Z
+DESCRIPTION:Chi White Sox 2 - Texas 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_06_chamlb_texmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: CSN, MLBN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T143619Z
+LOCATION:Rangers Ballpark in Arlington, Arlington
+SUMMARY:Chi White Sox 2 - Texas 3
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_06_chamlb_texmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120407T200500
+DTEND;TZID=America/New_York:20120407T230500
+DTSTAMP:20120925T170413Z
+UID:317752@mlb.com
+CREATED:20110908T191146Z
+DESCRIPTION:Chi White Sox 4 - Texas 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_07_chamlb_texmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T143619Z
+LOCATION:Rangers Ballpark in Arlington, Arlington
+SUMMARY:Chi White Sox 4 - Texas 3
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_07_chamlb_texmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120408T200500
+DTEND;TZID=America/New_York:20120408T230500
+DTSTAMP:20120925T170413Z
+UID:317767@mlb.com
+CREATED:20110908T191148Z
+DESCRIPTION:Chi White Sox 0 - Texas 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_08_chamlb_texmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: ESPN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T143620Z
+LOCATION:Rangers Ballpark in Arlington, Arlington
+SUMMARY:Chi White Sox 0 - Texas 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_08_chamlb_texmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120409T190500
+DTEND;TZID=America/New_York:20120409T220500
+DTSTAMP:20120925T170413Z
+UID:317783@mlb.com
+CREATED:20110908T191150Z
+DESCRIPTION:Chi White Sox 4 - Cleveland 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_09_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120522T142614Z
+LOCATION:Progressive Field, Cleveland
+SUMMARY:Chi White Sox 4 - Cleveland 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_09_chamlb_clemlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120411T120500
+DTEND;TZID=America/New_York:20120411T150500
+DTSTAMP:20120925T170413Z
+UID:317808@mlb.com
+CREATED:20110908T191154Z
+DESCRIPTION:Chi White Sox 10 - Cleveland 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_11_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120522T142614Z
+LOCATION:Progressive Field, Cleveland
+SUMMARY:Chi White Sox 10 - Cleveland 6
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_11_chamlb_clemlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120413T141000
 DTEND;TZID=America/New_York:20120413T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:317834@mlb.com
 CREATED:20110908T191157Z
 DESCRIPTION:Detroit 2 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_13_detmlb_chamlb_1\n\nPromotions/Giveaways: \n    Opening Day and White Sox Magnetic Schedule\n    Rock the Sox - Jack Ingram\n    Game Day Entertainment:\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -278,7 +572,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120414T161000
 DTEND;TZID=America/New_York:20120414T191000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:317849@mlb.com
 CREATED:20110908T191159Z
 DESCRIPTION:Detroit 1 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_14_detmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Knit Bomber Hat\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -292,7 +586,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120415T141000
 DTEND;TZID=America/New_York:20120415T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:317864@mlb.com
 CREATED:20110908T191201Z
 DESCRIPTION:Detroit 5 - Chi White Sox 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_15_detmlb_chamlb_1\n\nPromotions/Giveaways: \n    Kids Day - Celebration of Spring\n    Throwback Sunday\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -306,7 +600,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120416T201000
 DTEND;TZID=America/New_York:20120416T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:317873@mlb.com
 CREATED:20110908T191202Z
 DESCRIPTION:Baltimore 10 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_16_balmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Calendar\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -320,7 +614,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120417T201000
 DTEND;TZID=America/New_York:20120417T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:317883@mlb.com
 CREATED:20110908T191203Z
 DESCRIPTION:Baltimore 3 - Chi White Sox 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_17_balmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Calendar\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -334,7 +628,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120418T201000
 DTEND;TZID=America/New_York:20120418T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:317898@mlb.com
 CREATED:20110908T191206Z
 DESCRIPTION:Baltimore 1 - Chi White Sox 8\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_18_balmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Calendar\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -348,7 +642,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120419T141000
 DTEND;TZID=America/New_York:20120419T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:317914@mlb.com
 CREATED:20110908T191208Z
 DESCRIPTION:Baltimore 5 - Chi White Sox 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_19_balmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Calendar\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -360,13 +654,97 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_19_balmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120420T221000
+DTEND;TZID=America/New_York:20120421T011000
+DTSTAMP:20120925T170413Z
+UID:317927@mlb.com
+CREATED:20110908T191210Z
+DESCRIPTION:Chi White Sox 7 - Seattle 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_20_chamlb_seamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T143622Z
+LOCATION:Safeco Field, Seattle
+SUMMARY:Chi White Sox 7 - Seattle 3
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_20_chamlb_seamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120421T160500
+DTEND;TZID=America/New_York:20120421T190500
+DTSTAMP:20120925T170413Z
+UID:317942@mlb.com
+CREATED:20110908T191212Z
+DESCRIPTION:Chi White Sox 4 - Seattle 0\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_21_chamlb_seamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: FOX\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T143622Z
+LOCATION:Safeco Field, Seattle
+SUMMARY:Chi White Sox 4 - Seattle 0
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_21_chamlb_seamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120422T161000
+DTEND;TZID=America/New_York:20120422T191000
+DTSTAMP:20120925T170413Z
+UID:317957@mlb.com
+CREATED:20110908T191213Z
+DESCRIPTION:Chi White Sox 7 - Seattle 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_22_chamlb_seamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T143622Z
+LOCATION:Safeco Field, Seattle
+SUMMARY:Chi White Sox 7 - Seattle 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_22_chamlb_seamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120423T220500
+DTEND;TZID=America/New_York:20120424T010500
+DTSTAMP:20120925T170413Z
+UID:317972@mlb.com
+CREATED:20110908T191215Z
+DESCRIPTION:Chi White Sox 4 - Oakland 0\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_23_chamlb_oakmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T143622Z
+LOCATION:Oakland Coliseum, Oakland
+SUMMARY:Chi White Sox 4 - Oakland 0
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_23_chamlb_oakmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120424T220500
+DTEND;TZID=America/New_York:20120425T010500
+DTSTAMP:20120925T170413Z
+UID:317983@mlb.com
+CREATED:20110908T191216Z
+DESCRIPTION:Chi White Sox 0 - Oakland 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_24_chamlb_oakmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T143622Z
+LOCATION:Oakland Coliseum, Oakland
+SUMMARY:Chi White Sox 0 - Oakland 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_24_chamlb_oakmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120425T153500
+DTEND;TZID=America/New_York:20120425T183500
+DTSTAMP:20120925T170413Z
+UID:317998@mlb.com
+CREATED:20110908T191218Z
+DESCRIPTION:Chi White Sox 4 - Oakland 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_25_chamlb_oakmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T143622Z
+LOCATION:Oakland Coliseum, Oakland
+SUMMARY:Chi White Sox 4 - Oakland 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_25_chamlb_oakmlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120426T201000
 DTEND;TZID=America/New_York:20120426T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318011@mlb.com
 CREATED:20110908T191220Z
-DESCRIPTION:Boston 10 - Chi White Sox 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_26_bosmlb_chamlb_1\n\nPromotions/Giveaways: \n    Ladies Night\n    Rock the Sox - Marlee Scott (Country)\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: MLBN, WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143622Z
+DESCRIPTION:Boston 10 - Chi White Sox 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_26_bosmlb_chamlb_1\n\nPromotions/Giveaways: \n    Ladies Night\n    Rock the Sox - Marlee Scott (Country)\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: WGN, MLBN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120807T153816Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Boston 10 - Chi White Sox 3
 TRANSP:TRANSPARENT
@@ -376,11 +754,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120427T201000
 DTEND;TZID=America/New_York:20120427T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318020@mlb.com
 CREATED:20110908T191220Z
 DESCRIPTION:Boston 10 - Chi White Sox 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_27_bosmlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks and Luggage Tag\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143622Z
+LAST-MODIFIED:20120807T153913Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Boston 10 - Chi White Sox 3
 TRANSP:TRANSPARENT
@@ -390,11 +768,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120428T191000
 DTEND;TZID=America/New_York:20120428T221000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318035@mlb.com
 CREATED:20110908T191222Z
 DESCRIPTION:Boston 1 - Chi White Sox 0\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_28_bosmlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143622Z
+LAST-MODIFIED:20120807T154012Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Boston 1 - Chi White Sox 0
 TRANSP:TRANSPARENT
@@ -404,11 +782,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120429T141000
 DTEND;TZID=America/New_York:20120429T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318050@mlb.com
 CREATED:20110908T191224Z
 DESCRIPTION:Boston 1 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_29_bosmlb_chamlb_1\n\nPromotions/Giveaways: \n    Bat Day\n    Rock the Sox - Human Nature\n    Throwback Sunday\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143619Z
+LAST-MODIFIED:20120807T154212Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Boston 1 - Chi White Sox 4
 TRANSP:TRANSPARENT
@@ -418,7 +796,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120501T201000
 DTEND;TZID=America/New_York:20120501T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318078@mlb.com
 CREATED:20110908T191227Z
 DESCRIPTION:Cleveland 2 - Chi White Sox 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_01_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    MLB Network Drawstring Bag\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -432,7 +810,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120502T201000
 DTEND;TZID=America/New_York:20120502T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318093@mlb.com
 CREATED:20110908T191229Z
 DESCRIPTION:Cleveland 6 - Chi White Sox 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_02_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -446,10 +824,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120503T201000
 DTEND;TZID=America/New_York:20120503T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318107@mlb.com
 CREATED:20110908T191230Z
-DESCRIPTION:Cleveland 7 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_03_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Cinco de Mayo Celebration\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: WCIU, MLBN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+DESCRIPTION:Cleveland 7 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_03_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Cinco de Mayo Celebration\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: MLBN, WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
 LAST-MODIFIED:20120521T143620Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Cleveland 7 - Chi White Sox 5
@@ -458,9 +836,107 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_03_clemlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120504T190500
+DTEND;TZID=America/New_York:20120504T220500
+DTSTAMP:20120925T170413Z
+UID:318117@mlb.com
+CREATED:20110908T191231Z
+DESCRIPTION:Chi White Sox 4 - Detroit 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_04_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: MLBN, CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T143620Z
+LOCATION:Comerica Park, Detroit
+SUMMARY:Chi White Sox 4 - Detroit 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_04_chamlb_detmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120505T160500
+DTEND;TZID=America/New_York:20120505T190500
+DTSTAMP:20120925T170413Z
+UID:318132@mlb.com
+CREATED:20110908T191233Z
+DESCRIPTION:Chi White Sox 3 - Detroit 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_05_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: FOX\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120514T150227Z
+LOCATION:Comerica Park, Detroit
+SUMMARY:Chi White Sox 3 - Detroit 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_05_chamlb_detmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120506T130500
+DTEND;TZID=America/New_York:20120506T160500
+DTSTAMP:20120925T170413Z
+UID:318147@mlb.com
+CREATED:20110908T191235Z
+DESCRIPTION:Chi White Sox 1 - Detroit 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_06_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T143620Z
+LOCATION:Comerica Park, Detroit
+SUMMARY:Chi White Sox 1 - Detroit 3
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_06_chamlb_detmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120507T130500
+DTEND;TZID=America/New_York:20120507T160500
+DTSTAMP:20120925T170413Z
+UID:317795@mlb.com
+CREATED:20110908T191152Z
+DESCRIPTION:Chi White Sox 6 - Cleveland 8\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_07_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120508T072429Z
+LOCATION:Progressive Field, Cleveland
+SUMMARY:Chi White Sox 6 - Cleveland 8
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_07_chamlb_clemlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120507T190500
+DTEND;TZID=America/New_York:20120507T220500
+DTSTAMP:20120925T170413Z
+UID:318162@mlb.com
+CREATED:20110908T191237Z
+DESCRIPTION:Chi White Sox 2 - Cleveland 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_07_chamlb_clemlb_2\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120508T102145Z
+LOCATION:Progressive Field, Cleveland
+SUMMARY:Chi White Sox 2 - Cleveland 3
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_07_chamlb_clemlb_2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120508T190500
+DTEND;TZID=America/New_York:20120508T220500
+DTSTAMP:20120925T170413Z
+UID:318174@mlb.com
+CREATED:20110908T191238Z
+DESCRIPTION:Chi White Sox 5 - Cleveland 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_08_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120514T151015Z
+LOCATION:Progressive Field, Cleveland
+SUMMARY:Chi White Sox 5 - Cleveland 3
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_08_chamlb_clemlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120509T190500
+DTEND;TZID=America/New_York:20120509T220500
+DTSTAMP:20120925T170413Z
+UID:318189@mlb.com
+CREATED:20110908T191240Z
+DESCRIPTION:Chi White Sox 8 - Cleveland 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_09_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120514T151030Z
+LOCATION:Progressive Field, Cleveland
+SUMMARY:Chi White Sox 8 - Cleveland 1
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_09_chamlb_clemlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120511T201000
 DTEND;TZID=America/New_York:20120511T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318214@mlb.com
 CREATED:20110908T191243Z
 DESCRIPTION:Kansas City 0 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_11_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -474,7 +950,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120512T191000
 DTEND;TZID=America/New_York:20120512T221000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318229@mlb.com
 CREATED:20110908T191245Z
 DESCRIPTION:Kansas City 5 - Chi White Sox 0\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_12_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Mother Son Night and Fireworks\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -488,7 +964,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120513T141000
 DTEND;TZID=America/New_York:20120513T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318244@mlb.com
 CREATED:20110908T191246Z
 DESCRIPTION:Kansas City 9 - Chi White Sox 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_13_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Mother's Day Tote\n    Star Wars Day\n    Rock the Sox - Jonalee White and The Late Nite Drivers (Country)\n    Throwback Sunday\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -502,7 +978,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120514T201000
 DTEND;TZID=America/New_York:20120514T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318257@mlb.com
 CREATED:20110908T191247Z
 DESCRIPTION:Detroit 5 - Chi White Sox 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_14_detmlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -516,7 +992,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120515T141000
 DTEND;TZID=America/New_York:20120515T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318272@mlb.com
 CREATED:20110908T191249Z
 DESCRIPTION:Detroit 10 - Chi White Sox 8\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_15_detmlb_chamlb_1\n\nPromotions/Giveaways: \n    Weather Day\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -528,13 +1004,83 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_15_detmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120516T220500
+DTEND;TZID=America/New_York:20120517T010500
+DTSTAMP:20120925T170413Z
+UID:318285@mlb.com
+CREATED:20110908T191250Z
+DESCRIPTION:Chi White Sox 2 - LA Angels 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_16_chamlb_anamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T143622Z
+LOCATION:Angel Stadium of Anaheim, Anaheim
+SUMMARY:Chi White Sox 2 - LA Angels 7
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_16_chamlb_anamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120517T153500
+DTEND;TZID=America/New_York:20120517T183500
+DTSTAMP:20120925T170413Z
+UID:318300@mlb.com
+CREATED:20110908T191252Z
+DESCRIPTION:Chi White Sox 6 - LA Angels 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_17_chamlb_anamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T143619Z
+LOCATION:Angel Stadium of Anaheim, Anaheim
+SUMMARY:Chi White Sox 6 - LA Angels 1
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_17_chamlb_anamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120518T142000
+DTEND;TZID=America/New_York:20120518T172000
+DTSTAMP:20120925T170413Z
+UID:318317@mlb.com
+CREATED:20110908T191254Z
+DESCRIPTION:Chi White Sox 3 - Chi Cubs 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_18_chamlb_chnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T143618Z
+LOCATION:Wrigley Field, Chicago
+SUMMARY:Chi White Sox 3 - Chi Cubs 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_18_chamlb_chnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120519T191500
+DTEND;TZID=America/New_York:20120519T221500
+DTSTAMP:20120925T170413Z
+UID:318332@mlb.com
+CREATED:20110908T191256Z
+DESCRIPTION:Chi White Sox 7 - Chi Cubs 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_19_chamlb_chnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: FOX\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120807T171313Z
+LOCATION:Wrigley Field, Chicago
+SUMMARY:Chi White Sox 7 - Chi Cubs 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_19_chamlb_chnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120520T142000
+DTEND;TZID=America/New_York:20120520T172000
+DTSTAMP:20120925T170413Z
+UID:318347@mlb.com
+CREATED:20110908T191257Z
+DESCRIPTION:Chi White Sox 6 - Chi Cubs 0\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_20_chamlb_chnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120521T164723Z
+LOCATION:Wrigley Field, Chicago
+SUMMARY:Chi White Sox 6 - Chi Cubs 0
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_20_chamlb_chnmlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120522T201000
 DTEND;TZID=America/New_York:20120522T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318378@mlb.com
 CREATED:20110908T191301Z
 DESCRIPTION:Minnesota 9 - Chi White Sox 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_22_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120523T100704Z
+LAST-MODIFIED:20120807T172712Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Minnesota 9 - Chi White Sox 2
 TRANSP:TRANSPARENT
@@ -544,11 +1090,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120523T201000
 DTEND;TZID=America/New_York:20120523T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318393@mlb.com
 CREATED:20110908T191302Z
 DESCRIPTION:Minnesota 0 - Chi White Sox 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_23_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Dog Day\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120524T161320Z
+LAST-MODIFIED:20120807T173212Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Minnesota 0 - Chi White Sox 6
 TRANSP:TRANSPARENT
@@ -558,11 +1104,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120524T201000
 DTEND;TZID=America/New_York:20120524T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318403@mlb.com
 CREATED:20110908T191303Z
 DESCRIPTION:Minnesota 8 - Chi White Sox 11\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_24_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Sports and Marketing Career Fair\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN, MLBN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120525T152230Z
+LAST-MODIFIED:20120807T173413Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Minnesota 8 - Chi White Sox 11
 TRANSP:TRANSPARENT
@@ -572,11 +1118,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120525T201000
 DTEND;TZID=America/New_York:20120525T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318409@mlb.com
 CREATED:20110908T191304Z
 DESCRIPTION:Cleveland 3 - Chi White Sox 9\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_25_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Northwest Indiana Night & Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120526T164633Z
+LAST-MODIFIED:20120807T173614Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Cleveland 3 - Chi White Sox 9
 TRANSP:TRANSPARENT
@@ -586,11 +1132,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120526T161000
 DTEND;TZID=America/New_York:20120526T191000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318424@mlb.com
 CREATED:20110908T191305Z
 DESCRIPTION:Cleveland 7 - Chi White Sox 14\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_26_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Robin Ventura Bobblehead\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120604T053636Z
+LAST-MODIFIED:20120807T180715Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Cleveland 7 - Chi White Sox 14
 TRANSP:TRANSPARENT
@@ -600,11 +1146,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120527T141000
 DTEND;TZID=America/New_York:20120527T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318439@mlb.com
 CREATED:20110908T191307Z
 DESCRIPTION:Cleveland 6 - Chi White Sox 12\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_27_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Kids Day - Sox Expo\n    Throwback Sunday\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120528T161339Z
+LAST-MODIFIED:20120807T181314Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Cleveland 6 - Chi White Sox 12
 TRANSP:TRANSPARENT
@@ -612,13 +1158,55 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_27_clemlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120528T151000
+DTEND;TZID=America/New_York:20120528T181000
+DTSTAMP:20120925T170413Z
+UID:318454@mlb.com
+CREATED:20110908T191309Z
+DESCRIPTION:Chi White Sox 2 - Tampa Bay 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_28_chamlb_tbamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120807T181712Z
+LOCATION:Tropicana Field, St. Petersburg
+SUMMARY:Chi White Sox 2 - Tampa Bay 1
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_28_chamlb_tbamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120529T191000
+DTEND;TZID=America/New_York:20120529T221000
+DTSTAMP:20120925T170413Z
+UID:318469@mlb.com
+CREATED:20110908T191310Z
+DESCRIPTION:Chi White Sox 7 - Tampa Bay 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_29_chamlb_tbamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120807T182112Z
+LOCATION:Tropicana Field, St. Petersburg
+SUMMARY:Chi White Sox 7 - Tampa Bay 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_29_chamlb_tbamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120530T131000
+DTEND;TZID=America/New_York:20120530T161000
+DTSTAMP:20120925T170413Z
+UID:318484@mlb.com
+CREATED:20110908T191313Z
+DESCRIPTION:Chi White Sox 4 - Tampa Bay 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_30_chamlb_tbamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120807T182412Z
+LOCATION:Tropicana Field, St. Petersburg
+SUMMARY:Chi White Sox 4 - Tampa Bay 3
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_05_30_chamlb_tbamlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120601T201000
 DTEND;TZID=America/New_York:20120601T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318512@mlb.com
 CREATED:20110908T191316Z
 DESCRIPTION:Seattle 4 - Chi White Sox 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_01_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks\n    Game Day Entertainment\n    Illini Night\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120602T150132Z
+LAST-MODIFIED:20120807T183013Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Seattle 4 - Chi White Sox 7
 TRANSP:TRANSPARENT
@@ -628,11 +1216,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120602T161000
 DTEND;TZID=America/New_York:20120602T191000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318527@mlb.com
 CREATED:20110908T191318Z
 DESCRIPTION:Seattle 10 - Chi White Sox 8\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_02_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    Carlton Fisk Replica Statue\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120603T052857Z
+LAST-MODIFIED:20120807T183516Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Seattle 10 - Chi White Sox 8
 TRANSP:TRANSPARENT
@@ -642,11 +1230,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120603T141000
 DTEND;TZID=America/New_York:20120603T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318542@mlb.com
 CREATED:20110908T191319Z
 DESCRIPTION:Seattle 2 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_03_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    Southpaw's Birthday Party and Southpaw Mini Plush Pal\n    Rock the Sox - Mackenzie Morgan (Pop/Country)\n    Throwback Sunday\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120603T231627Z
+LAST-MODIFIED:20120807T183913Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Seattle 2 - Chi White Sox 4
 TRANSP:TRANSPARENT
@@ -656,11 +1244,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120605T201000
 DTEND;TZID=America/New_York:20120605T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318564@mlb.com
 CREATED:20110908T191322Z
 DESCRIPTION:Toronto 9 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_05_tormlb_chamlb_1\n\nPromotions/Giveaways: \n    Navy Night\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120607T144921Z
+LAST-MODIFIED:20120807T184614Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Toronto 9 - Chi White Sox 5
 TRANSP:TRANSPARENT
@@ -670,11 +1258,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120606T201000
 DTEND;TZID=America/New_York:20120606T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318579@mlb.com
 CREATED:20110908T191323Z
 DESCRIPTION:Toronto 4 - Chi White Sox 0\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_06_tormlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120607T163828Z
+LAST-MODIFIED:20120807T184913Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Toronto 4 - Chi White Sox 0
 TRANSP:TRANSPARENT
@@ -684,11 +1272,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120607T201000
 DTEND;TZID=America/New_York:20120607T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318592@mlb.com
 CREATED:20110908T191325Z
 DESCRIPTION:Toronto 3 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_07_tormlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120613T040032Z
+LAST-MODIFIED:20120809T145919Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Toronto 3 - Chi White Sox 4
 TRANSP:TRANSPARENT
@@ -698,7 +1286,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120608T201000
 DTEND;TZID=America/New_York:20120608T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318597@mlb.com
 CREATED:20110908T191325Z
 DESCRIPTION:Houston 8 - Chi White Sox 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_08_houmlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -712,7 +1300,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120609T161000
 DTEND;TZID=America/New_York:20120609T191000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318612@mlb.com
 CREATED:20110908T191327Z
 DESCRIPTION:Houston 1 - Chi White Sox 10\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_09_houmlb_chamlb_1\n\nPromotions/Giveaways: \n    Father Daughter Day and Commemorative 2005 World Series Canvas\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -726,7 +1314,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120610T141000
 DTEND;TZID=America/New_York:20120610T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318627@mlb.com
 CREATED:20110908T191328Z
 DESCRIPTION:Houston 11 - Chi White Sox 9\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_10_houmlb_chamlb_1\n\nPromotions/Giveaways: \n    Baseball Card Pack\n    Kids Day - Costume Party\n    Game Day Entertainment\n    Throwback Sunday\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -738,9 +1326,93 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_10_houmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120612T201500
+DTEND;TZID=America/New_York:20120612T231500
+DTSTAMP:20120925T170413Z
+UID:318645@mlb.com
+CREATED:20110908T191330Z
+DESCRIPTION:Chi White Sox 6 - St. Louis 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_12_chamlb_slnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120613T175934Z
+LOCATION:Busch Stadium, St. Louis
+SUMMARY:Chi White Sox 6 - St. Louis 1
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_12_chamlb_slnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120613T201500
+DTEND;TZID=America/New_York:20120613T231500
+DTSTAMP:20120925T170413Z
+UID:318660@mlb.com
+CREATED:20110908T191332Z
+DESCRIPTION:Chi White Sox 0 - St. Louis 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_13_chamlb_slnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120614T155106Z
+LOCATION:Busch Stadium, St. Louis
+SUMMARY:Chi White Sox 0 - St. Louis 1
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_13_chamlb_slnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120614T201500
+DTEND;TZID=America/New_York:20120614T231500
+DTSTAMP:20120925T170413Z
+UID:318673@mlb.com
+CREATED:20110908T191333Z
+DESCRIPTION:Chi White Sox 3 - St. Louis 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_14_chamlb_slnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN, MLBN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120615T065322Z
+LOCATION:Busch Stadium, St. Louis
+SUMMARY:Chi White Sox 3 - St. Louis 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_14_chamlb_slnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120615T221000
+DTEND;TZID=America/New_York:20120616T011000
+DTSTAMP:20120925T170413Z
+UID:318686@mlb.com
+CREATED:20110908T191335Z
+DESCRIPTION:Chi White Sox 6 - LA Dodgers 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_15_chamlb_lanmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120616T075648Z
+LOCATION:Dodger Stadium, Los Angeles
+SUMMARY:Chi White Sox 6 - LA Dodgers 7
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_15_chamlb_lanmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120616T221000
+DTEND;TZID=America/New_York:20120617T011000
+DTSTAMP:20120925T170413Z
+UID:318701@mlb.com
+CREATED:20110908T191336Z
+DESCRIPTION:Chi White Sox 5 - LA Dodgers 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_16_chamlb_lanmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: MLBN, WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120617T083052Z
+LOCATION:Dodger Stadium, Los Angeles
+SUMMARY:Chi White Sox 5 - LA Dodgers 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_16_chamlb_lanmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120617T161000
+DTEND;TZID=America/New_York:20120617T191000
+DTSTAMP:20120925T170413Z
+UID:318716@mlb.com
+CREATED:20110908T191338Z
+DESCRIPTION:Chi White Sox 1 - LA Dodgers 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_17_chamlb_lanmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120618T103211Z
+LOCATION:Dodger Stadium, Los Angeles
+SUMMARY:Chi White Sox 1 - LA Dodgers 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_17_chamlb_lanmlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120618T201000
 DTEND;TZID=America/New_York:20120618T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318730@mlb.com
 CREATED:20110908T191340Z
 DESCRIPTION:Chi Cubs 12 - Chi White Sox 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_18_chnmlb_chamlb_1\n\nPromotions/Giveaways: \n    Million Dollar Pitch\n    White Sox/Miller Lite Baseball Beverage Wraps\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -754,7 +1426,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120619T201000
 DTEND;TZID=America/New_York:20120619T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318739@mlb.com
 CREATED:20110908T191341Z
 DESCRIPTION:Chi Cubs 2 - Chi White Sox 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_19_chnmlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -768,7 +1440,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120620T201000
 DTEND;TZID=America/New_York:20120620T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318754@mlb.com
 CREATED:20110908T191342Z
 DESCRIPTION:Chi Cubs 0 - Chi White Sox 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_20_chnmlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n    Rock the Sox - Three Men in Kilts\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -782,7 +1454,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120622T201000
 DTEND;TZID=America/New_York:20120622T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318779@mlb.com
 CREATED:20110908T191345Z
 DESCRIPTION:Milwaukee 1 - Chi White Sox 0\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_22_milmlb_chamlb_1\n\nPromotions/Giveaways: \n    Mullet Night & Fireworks\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -796,7 +1468,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120623T191500
 DTEND;TZID=America/New_York:20120623T221500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318794@mlb.com
 CREATED:20110908T191347Z
 DESCRIPTION:Milwaukee 6 - Chi White Sox 8\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_23_milmlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks and White Sox Magnetic Photo Frame\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: FOX\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -810,7 +1482,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120624T141000
 DTEND;TZID=America/New_York:20120624T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318809@mlb.com
 CREATED:20110908T191348Z
 DESCRIPTION:Milwaukee 0 - Chi White Sox 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_24_milmlb_chamlb_1\n\nPromotions/Giveaways: \n    70s Day and Kids XL 1972 Replica Jersey\n    Throwback Sunday\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -822,9 +1494,107 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_24_milmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120625T201000
+DTEND;TZID=America/New_York:20120625T231000
+DTSTAMP:20120925T170413Z
+UID:318818@mlb.com
+CREATED:20110908T191349Z
+DESCRIPTION:Chi White Sox 1 - Minnesota 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_25_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120626T060314Z
+LOCATION:Target Field, Minneapolis
+SUMMARY:Chi White Sox 1 - Minnesota 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_25_chamlb_minmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120626T201000
+DTEND;TZID=America/New_York:20120626T231000
+DTSTAMP:20120925T170413Z
+UID:318832@mlb.com
+CREATED:20110908T191351Z
+DESCRIPTION:Chi White Sox 3 - Minnesota 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_26_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: MLBN, CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120627T221738Z
+LOCATION:Target Field, Minneapolis
+SUMMARY:Chi White Sox 3 - Minnesota 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_26_chamlb_minmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120627T131000
+DTEND;TZID=America/New_York:20120627T161000
+DTSTAMP:20120925T170413Z
+UID:318847@mlb.com
+CREATED:20110908T191352Z
+DESCRIPTION:Chi White Sox 12 - Minnesota 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_27_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120628T154534Z
+LOCATION:Target Field, Minneapolis
+SUMMARY:Chi White Sox 12 - Minnesota 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_27_chamlb_minmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120628T190500
+DTEND;TZID=America/New_York:20120628T220500
+DTSTAMP:20120925T170413Z
+UID:318863@mlb.com
+CREATED:20110908T191354Z
+DESCRIPTION:Chi White Sox 4 - NY Yankees 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_28_chamlb_nyamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120706T192154Z
+LOCATION:Yankee Stadium, Bronx
+SUMMARY:Chi White Sox 4 - NY Yankees 3
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_28_chamlb_nyamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120629T190500
+DTEND;TZID=America/New_York:20120629T220500
+DTSTAMP:20120925T170413Z
+UID:318875@mlb.com
+CREATED:20110908T191355Z
+DESCRIPTION:Chi White Sox 14 - NY Yankees 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_29_chamlb_nyamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: CSN, MLBN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120630T070657Z
+LOCATION:Yankee Stadium, Bronx
+SUMMARY:Chi White Sox 14 - NY Yankees 7
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_29_chamlb_nyamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120630T130500
+DTEND;TZID=America/New_York:20120630T160500
+DTSTAMP:20120925T170413Z
+UID:318890@mlb.com
+CREATED:20110908T191357Z
+DESCRIPTION:Chi White Sox 0 - NY Yankees 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_30_chamlb_nyamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2012\n\nLocal TV: MLBN, CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120701T083326Z
+LOCATION:Yankee Stadium, Bronx
+SUMMARY:Chi White Sox 0 - NY Yankees 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_06_30_chamlb_nyamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120701T140500
+DTEND;TZID=America/New_York:20120701T170500
+DTSTAMP:20120925T170413Z
+UID:318905@mlb.com
+CREATED:20110908T191359Z
+DESCRIPTION:Chi White Sox 2 - NY Yankees 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_01_chamlb_nyamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: TBS, WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120702T163828Z
+LOCATION:Yankee Stadium, Bronx
+SUMMARY:Chi White Sox 2 - NY Yankees 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_01_chamlb_nyamlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120703T201000
 DTEND;TZID=America/New_York:20120703T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318943@mlb.com
 CREATED:20110908T191403Z
 DESCRIPTION:Texas 2 - Chi White Sox 19\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_03_texmlb_chamlb_1\n\nPromotions/Giveaways: \n    Polish Heritage Night\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -838,10 +1608,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120704T191000
 DTEND;TZID=America/New_York:20120704T221000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318958@mlb.com
 CREATED:20110908T191404Z
-DESCRIPTION:Texas 4 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_04_texmlb_chamlb_1\n\nPromotions/Giveaways: \n    Independence Day Celebration and Fireworks (set to Patriotic Music)\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN, ESPN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+DESCRIPTION:Texas 4 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_04_texmlb_chamlb_1\n\nPromotions/Giveaways: \n    Independence Day Celebration and Fireworks (set to Patriotic Music)\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: ESPN, CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
 LAST-MODIFIED:20120705T125537Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Texas 4 - Chi White Sox 5
@@ -852,7 +1622,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120705T141000
 DTEND;TZID=America/New_York:20120705T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318972@mlb.com
 CREATED:20110908T191406Z
 DESCRIPTION:Texas 1 - Chi White Sox 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_05_texmlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -866,7 +1636,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120706T201000
 DTEND;TZID=America/New_York:20120706T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:318987@mlb.com
 CREATED:20110908T191408Z
 DESCRIPTION:Toronto 2 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_06_tormlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -880,7 +1650,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120707T161000
 DTEND;TZID=America/New_York:20120707T191000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319002@mlb.com
 CREATED:20110908T191409Z
 DESCRIPTION:Toronto 0 - Chi White Sox 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_07_tormlb_chamlb_1\n\nPromotions/Giveaways: \n    Orgullo Sox Day\n    Alexei Ramirez Bobblehead\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -894,7 +1664,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120708T141000
 DTEND;TZID=America/New_York:20120708T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319017@mlb.com
 CREATED:20110908T191411Z
 DESCRIPTION:Toronto 11 - Chi White Sox 9\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_08_tormlb_chamlb_1\n\nPromotions/Giveaways: \n    Kids Day - Wild About the Sox\n    Throwback Sunday\n    Game Day Entertainment\n    Rock the Sox - Royal Teeth\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
@@ -908,11 +1678,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120710T200000
 DTEND;TZID=America/New_York:20120710T230000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319018@mlb.com
 CREATED:20110908T191411Z
 DESCRIPTION:MLB All-Star Game: NL All-Stars 8 - AL All-Stars 0\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_10_nasmlb_aasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n
-LAST-MODIFIED:20120711T071519Z
+LAST-MODIFIED:20120816T152617Z
 LOCATION:Kauffman Stadium, Kansas City
 SUMMARY:MLB All-Star Game: NL All-Stars 8 - AL All-Stars 0
 TRANSP:TRANSPARENT
@@ -920,13 +1690,153 @@ SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_10_nasmlb_aasmlb_1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120713T201000
+DTEND;TZID=America/New_York:20120713T231000
+DTSTAMP:20120925T170413Z
+UID:319022@mlb.com
+CREATED:20110908T191412Z
+DESCRIPTION:Chi White Sox 9 - Kansas City 8\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_13_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120714T095708Z
+LOCATION:Kauffman Stadium, Kansas City
+SUMMARY:Chi White Sox 9 - Kansas City 8
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_13_chamlb_kcamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120714T191000
+DTEND;TZID=America/New_York:20120714T221000
+DTSTAMP:20120925T170413Z
+UID:319037@mlb.com
+CREATED:20110908T191413Z
+DESCRIPTION:Chi White Sox 3 - Kansas City 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_14_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120803T204728Z
+LOCATION:Kauffman Stadium, Kansas City
+SUMMARY:Chi White Sox 3 - Kansas City 6
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_14_chamlb_kcamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120715T141000
+DTEND;TZID=America/New_York:20120715T171000
+DTSTAMP:20120925T170413Z
+UID:319052@mlb.com
+CREATED:20110908T191415Z
+DESCRIPTION:Chi White Sox 2 - Kansas City 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_15_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120716T041311Z
+LOCATION:Kauffman Stadium, Kansas City
+SUMMARY:Chi White Sox 2 - Kansas City 1
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_15_chamlb_kcamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120716T191000
+DTEND;TZID=America/New_York:20120716T221000
+DTSTAMP:20120925T170413Z
+UID:319067@mlb.com
+CREATED:20110908T191416Z
+DESCRIPTION:Chi White Sox 1 - Boston 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_16_chamlb_bosmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120717T053243Z
+LOCATION:Fenway Park, Boston
+SUMMARY:Chi White Sox 1 - Boston 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_16_chamlb_bosmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120717T191000
+DTEND;TZID=America/New_York:20120717T221000
+DTSTAMP:20120925T170413Z
+UID:319080@mlb.com
+CREATED:20110908T191418Z
+DESCRIPTION:Chi White Sox 7 - Boston 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_17_chamlb_bosmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120724T200747Z
+LOCATION:Fenway Park, Boston
+SUMMARY:Chi White Sox 7 - Boston 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_17_chamlb_bosmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120718T191000
+DTEND;TZID=America/New_York:20120718T221000
+DTSTAMP:20120925T170413Z
+UID:319095@mlb.com
+CREATED:20110908T191419Z
+DESCRIPTION:Chi White Sox 1 - Boston 10\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_18_chamlb_bosmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120722T110933Z
+LOCATION:Fenway Park, Boston
+SUMMARY:Chi White Sox 1 - Boston 10
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_18_chamlb_bosmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120719T191000
+DTEND;TZID=America/New_York:20120719T221000
+DTSTAMP:20120925T170413Z
+UID:319110@mlb.com
+CREATED:20110908T191421Z
+DESCRIPTION:Chi White Sox 1 - Boston 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_19_chamlb_bosmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN, MLBN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120722T124254Z
+LOCATION:Fenway Park, Boston
+SUMMARY:Chi White Sox 1 - Boston 3
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_19_chamlb_bosmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120720T190500
+DTEND;TZID=America/New_York:20120720T220500
+DTSTAMP:20120925T170413Z
+UID:319120@mlb.com
+CREATED:20110908T191422Z
+DESCRIPTION:Chi White Sox 2 - Detroit 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_20_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120912T210814Z
+LOCATION:Comerica Park, Detroit
+SUMMARY:Chi White Sox 2 - Detroit 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_20_chamlb_detmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120721T160500
+DTEND;TZID=America/New_York:20120721T190500
+DTSTAMP:20120925T170413Z
+UID:319135@mlb.com
+CREATED:20110908T191424Z
+DESCRIPTION:Chi White Sox 1 - Detroit 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_21_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: FOX\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120722T140214Z
+LOCATION:Comerica Park, Detroit
+SUMMARY:Chi White Sox 1 - Detroit 7
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_21_chamlb_detmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120722T130500
+DTEND;TZID=America/New_York:20120722T160500
+DTSTAMP:20120925T170413Z
+UID:319150@mlb.com
+CREATED:20110908T191426Z
+DESCRIPTION:Chi White Sox 4 - Detroit 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_22_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120723T101944Z
+LOCATION:Comerica Park, Detroit
+SUMMARY:Chi White Sox 4 - Detroit 6
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_22_chamlb_detmlb_1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120723T201000
 DTEND;TZID=America/New_York:20120723T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319172@mlb.com
 CREATED:20110908T191428Z
 DESCRIPTION:Minnesota 4 - Chi White Sox 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_23_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    House Music Night\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120724T105555Z
+LAST-MODIFIED:20120728T124938Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Minnesota 4 - Chi White Sox 7
 TRANSP:TRANSPARENT
@@ -936,403 +1846,809 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120724T201000
 DTEND;TZID=America/New_York:20120724T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319185@mlb.com
 CREATED:20110908T191429Z
-DESCRIPTION:Minnesota at Chi White Sox\n\nProbable Starters - \nHome: Quintana, Jose\nVisiting: De Vries, Cole\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_24_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Greek Heritage Night\n    Game Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120724T232033Z
+DESCRIPTION:Minnesota 4 - Chi White Sox 11\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_24_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Greek Heritage Night\n    Game Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120725T154903Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Minnesota at Chi White Sox
+SUMMARY:Minnesota 4 - Chi White Sox 11
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_24_minmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120725T141000
 DTEND;TZID=America/New_York:20120725T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319200@mlb.com
 CREATED:20110908T191431Z
-DESCRIPTION:Minnesota at Chi White Sox\n\nProbable Starters - \nHome: Peavy, Jake\nVisiting: Blackburn, Nick\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_25_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120724T060109Z
+DESCRIPTION:Minnesota 2 - Chi White Sox 8\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_25_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120726T161050Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Minnesota at Chi White Sox
+SUMMARY:Minnesota 2 - Chi White Sox 8
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_25_minmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120727T200500
+DTEND;TZID=America/New_York:20120727T230500
+DTSTAMP:20120925T170413Z
+UID:319215@mlb.com
+CREATED:20110908T191433Z
+DESCRIPTION:Chi White Sox 9 - Texas 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_27_chamlb_texmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120728T170828Z
+LOCATION:Rangers Ballpark in Arlington, Arlington
+SUMMARY:Chi White Sox 9 - Texas 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_27_chamlb_texmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120728T200500
+DTEND;TZID=America/New_York:20120728T230500
+DTSTAMP:20120925T170413Z
+UID:319230@mlb.com
+CREATED:20110908T191434Z
+DESCRIPTION:Chi White Sox 5 - Texas 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_28_chamlb_texmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN, MLBN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120804T044143Z
+LOCATION:Rangers Ballpark in Arlington, Arlington
+SUMMARY:Chi White Sox 5 - Texas 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_28_chamlb_texmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120729T190500
+DTEND;TZID=America/New_York:20120729T220500
+DTSTAMP:20120925T170413Z
+UID:319245@mlb.com
+CREATED:20110908T191436Z
+DESCRIPTION:Chi White Sox 0 - Texas 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_29_chamlb_texmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120731T170519Z
+LOCATION:Rangers Ballpark in Arlington, Arlington
+SUMMARY:Chi White Sox 0 - Texas 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_29_chamlb_texmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120730T201000
+DTEND;TZID=America/New_York:20120730T231000
+DTSTAMP:20120925T170413Z
+UID:319262@mlb.com
+CREATED:20110908T191438Z
+DESCRIPTION:Chi White Sox 6 - Minnesota 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_30_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120731T161316Z
+LOCATION:Target Field, Minneapolis
+SUMMARY:Chi White Sox 6 - Minnesota 7
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_30_chamlb_minmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120731T201000
+DTEND;TZID=America/New_York:20120731T231000
+DTSTAMP:20120925T170413Z
+UID:319274@mlb.com
+CREATED:20110908T191439Z
+DESCRIPTION:Chi White Sox 4 - Minnesota 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_31_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120801T104709Z
+LOCATION:Target Field, Minneapolis
+SUMMARY:Chi White Sox 4 - Minnesota 3
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_07_31_chamlb_minmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120801T131000
+DTEND;TZID=America/New_York:20120801T161000
+DTSTAMP:20120925T170413Z
+UID:319289@mlb.com
+CREATED:20110908T191441Z
+DESCRIPTION:Chi White Sox 3 - Minnesota 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_01_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: MLBN, CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120802T172908Z
+LOCATION:Target Field, Minneapolis
+SUMMARY:Chi White Sox 3 - Minnesota 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_01_chamlb_minmlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120803T201000
 DTEND;TZID=America/New_York:20120803T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319310@mlb.com
 CREATED:20110908T191443Z
-DESCRIPTION:LA Angels at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_03_anamlb_chamlb_1\n\nPromotions/Giveaways: \n    Elvis Night and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143621Z
+DESCRIPTION:LA Angels 6 - Chi White Sox 8\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_03_anamlb_chamlb_1\n\nPromotions/Giveaways: \n    Elvis Night and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120804T072650Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:LA Angels at Chi White Sox
+SUMMARY:LA Angels 6 - Chi White Sox 8
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_03_anamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120804T191000
 DTEND;TZID=America/New_York:20120804T221000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319325@mlb.com
 CREATED:20110908T191445Z
-DESCRIPTION:LA Angels at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_04_anamlb_chamlb_1\n\nPromotions/Giveaways: \n    Beer Vendor Bobblehead\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143621Z
+DESCRIPTION:LA Angels 6 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_04_anamlb_chamlb_1\n\nPromotions/Giveaways: \n    Beer Vendor Bobblehead\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120805T063027Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:LA Angels at Chi White Sox
+SUMMARY:LA Angels 6 - Chi White Sox 5
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_04_anamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120805T141000
 DTEND;TZID=America/New_York:20120805T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319340@mlb.com
 CREATED:20110908T191446Z
-DESCRIPTION:LA Angels at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_05_anamlb_chamlb_1\n\nPromotions/Giveaways: \n    Kids Chest Protector Backpack\n    Throwback Sunday\n    Game Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN, TBS\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143619Z
+DESCRIPTION:LA Angels 2 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_05_anamlb_chamlb_1\n\nPromotions/Giveaways: \n    Kids Chest Protector Backpack\n    Throwback Sunday\n    Game Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN, TBS\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120808T120147Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:LA Angels at Chi White Sox
+SUMMARY:LA Angels 2 - Chi White Sox 4
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_05_anamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120806T201000
 DTEND;TZID=America/New_York:20120806T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319361@mlb.com
 CREATED:20110908T191449Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_06_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143619Z
+DESCRIPTION:Kansas City 2 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_06_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120807T063230Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Kansas City at Chi White Sox
+SUMMARY:Kansas City 2 - Chi White Sox 4
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_06_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120807T201000
 DTEND;TZID=America/New_York:20120807T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319375@mlb.com
 CREATED:20110908T191450Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_07_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143619Z
+DESCRIPTION:Kansas City 5 - Chi White Sox 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_07_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Big Ten Night\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120808T170714Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Kansas City at Chi White Sox
+SUMMARY:Kansas City 5 - Chi White Sox 2
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_07_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120808T201000
 DTEND;TZID=America/New_York:20120808T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319390@mlb.com
 CREATED:20110908T191452Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_08_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Police & Fire Night\n    White Sox Drawstring Bag\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143620Z
+DESCRIPTION:Kansas City 2 - Chi White Sox 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_08_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Police & Fire Night\n    White Sox Drawstring Bag\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120809T165656Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Kansas City at Chi White Sox
+SUMMARY:Kansas City 2 - Chi White Sox 1
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_08_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120810T201000
 DTEND;TZID=America/New_York:20120810T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319416@mlb.com
 CREATED:20110908T191455Z
-DESCRIPTION:Oakland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_10_oakmlb_chamlb_1\n\nPromotions/Giveaways: \n    Country Music Night & Fireworks\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143619Z
+DESCRIPTION:Oakland 3 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_10_oakmlb_chamlb_1\n\nPromotions/Giveaways: \n    Country Music Night & Fireworks\n    Rock the Sox\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120811T061429Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Oakland at Chi White Sox
+SUMMARY:Oakland 3 - Chi White Sox 4
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_10_oakmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120811T191000
 DTEND;TZID=America/New_York:20120811T221000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319431@mlb.com
 CREATED:20110908T191456Z
-DESCRIPTION:Oakland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_11_oakmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Camouflage Cap\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143619Z
+DESCRIPTION:Oakland 9 - Chi White Sox 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_11_oakmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Camouflage Cap\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120821T054405Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Oakland at Chi White Sox
+SUMMARY:Oakland 9 - Chi White Sox 7
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_11_oakmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120812T141000
 DTEND;TZID=America/New_York:20120812T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319446@mlb.com
 CREATED:20110908T191458Z
-DESCRIPTION:Oakland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_12_oakmlb_chamlb_1\n\nPromotions/Giveaways: \n    Spirit & Mascot Day\n    Throwback Sunday\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143620Z
+DESCRIPTION:Oakland 3 - Chi White Sox 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_12_oakmlb_chamlb_1\n\nPromotions/Giveaways: \n    Spirit & Mascot Day\n    Throwback Sunday\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN, TBS\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120814T195608Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Oakland at Chi White Sox
+SUMMARY:Oakland 3 - Chi White Sox 7
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_12_oakmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120813T190700
+DTEND;TZID=America/New_York:20120813T220700
+DTSTAMP:20120925T170413Z
+UID:319452@mlb.com
+CREATED:20110908T191459Z
+DESCRIPTION:Chi White Sox 2 - Toronto 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_13_chamlb_tormlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120914T232132Z
+LOCATION:Rogers Centre, Toronto
+SUMMARY:Chi White Sox 2 - Toronto 3
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_13_chamlb_tormlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120814T190700
+DTEND;TZID=America/New_York:20120814T220700
+DTSTAMP:20120925T170413Z
+UID:319465@mlb.com
+CREATED:20110908T191500Z
+DESCRIPTION:Chi White Sox 3 - Toronto 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_14_chamlb_tormlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120815T164842Z
+LOCATION:Rogers Centre, Toronto
+SUMMARY:Chi White Sox 3 - Toronto 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_14_chamlb_tormlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120815T190700
+DTEND;TZID=America/New_York:20120815T220700
+DTSTAMP:20120925T170413Z
+UID:319480@mlb.com
+CREATED:20110908T191502Z
+DESCRIPTION:Chi White Sox 9 - Toronto 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_15_chamlb_tormlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120820T211002Z
+LOCATION:Rogers Centre, Toronto
+SUMMARY:Chi White Sox 9 - Toronto 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_15_chamlb_tormlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120816T190700
+DTEND;TZID=America/New_York:20120816T220700
+DTSTAMP:20120925T170413Z
+UID:319495@mlb.com
+CREATED:20110908T191504Z
+DESCRIPTION:Chi White Sox 7 - Toronto 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_16_chamlb_tormlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120821T054406Z
+LOCATION:Rogers Centre, Toronto
+SUMMARY:Chi White Sox 7 - Toronto 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_16_chamlb_tormlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120817T201000
+DTEND;TZID=America/New_York:20120817T231000
+DTSTAMP:20120925T170413Z
+UID:319507@mlb.com
+CREATED:20110908T191506Z
+DESCRIPTION:Chi White Sox 2 - Kansas City 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_17_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120818T062224Z
+LOCATION:Kauffman Stadium, Kansas City
+SUMMARY:Chi White Sox 2 - Kansas City 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_17_chamlb_kcamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120818T191000
+DTEND;TZID=America/New_York:20120818T221000
+DTSTAMP:20120925T170413Z
+UID:319522@mlb.com
+CREATED:20110908T191507Z
+DESCRIPTION:Chi White Sox 4 - Kansas City 9\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_18_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120824T143759Z
+LOCATION:Kauffman Stadium, Kansas City
+SUMMARY:Chi White Sox 4 - Kansas City 9
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_18_chamlb_kcamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120819T141000
+DTEND;TZID=America/New_York:20120819T171000
+DTSTAMP:20120925T170413Z
+UID:319537@mlb.com
+CREATED:20110908T191509Z
+DESCRIPTION:Chi White Sox 2 - Kansas City 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_19_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120824T143752Z
+LOCATION:Kauffman Stadium, Kansas City
+SUMMARY:Chi White Sox 2 - Kansas City 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_19_chamlb_kcamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120820T201000
 DTEND;TZID=America/New_York:20120820T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319557@mlb.com
 CREATED:20110908T191512Z
-DESCRIPTION:NY Yankees at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_20_nyamlb_chamlb_1\n\nPromotions/Giveaways: \n    Blackhawks Night\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143620Z
+DESCRIPTION:NY Yankees 6 - Chi White Sox 9\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_20_nyamlb_chamlb_1\n\nPromotions/Giveaways: \n    Blackhawks Night\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120821T165120Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:NY Yankees at Chi White Sox
+SUMMARY:NY Yankees 6 - Chi White Sox 9
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_20_nyamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120821T201000
 DTEND;TZID=America/New_York:20120821T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319571@mlb.com
 CREATED:20110908T191513Z
-DESCRIPTION:NY Yankees at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_21_nyamlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Reusable Bags and Green Game Powered by Constellation\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143620Z
+DESCRIPTION:NY Yankees 3 - Chi White Sox 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_21_nyamlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Reusable Bags and Green Game Powered by Constellation\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN, MLBN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120822T050848Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:NY Yankees at Chi White Sox
+SUMMARY:NY Yankees 3 - Chi White Sox 7
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_21_nyamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120822T201000
 DTEND;TZID=America/New_York:20120822T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319586@mlb.com
 CREATED:20110908T191515Z
-DESCRIPTION:NY Yankees at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_22_nyamlb_chamlb_1\n\nPromotions/Giveaways: \n    Chicago Bulls Night\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143620Z
+DESCRIPTION:NY Yankees 1 - Chi White Sox 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_22_nyamlb_chamlb_1\n\nPromotions/Giveaways: \n    Chicago Bulls Night\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WCIU, ESPN2\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120823T071619Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:NY Yankees at Chi White Sox
+SUMMARY:NY Yankees 1 - Chi White Sox 2
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_22_nyamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120824T201000
 DTEND;TZID=America/New_York:20120824T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319610@mlb.com
 CREATED:20110908T191518Z
-DESCRIPTION:Seattle at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_24_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    Beach Bash (set to Beach Bash soundtrack)\n    Fireworks\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143620Z
+DESCRIPTION:Seattle 8 - Chi White Sox 9\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_24_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    Beach Bash and Fireworks\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120825T072028Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Seattle at Chi White Sox
+SUMMARY:Seattle 8 - Chi White Sox 9
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_24_seamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120825T191000
 DTEND;TZID=America/New_York:20120825T221000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319625@mlb.com
 CREATED:20110908T191520Z
-DESCRIPTION:Seattle at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_25_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143621Z
+DESCRIPTION:Seattle 4 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_25_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120826T133938Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Seattle at Chi White Sox
+SUMMARY:Seattle 4 - Chi White Sox 5
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_25_seamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120826T141000
 DTEND;TZID=America/New_York:20120826T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319640@mlb.com
 CREATED:20110908T191521Z
-DESCRIPTION:Seattle at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_26_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    Kids Day - Back to School Carnival\n    Throwback Sunday\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143622Z
+DESCRIPTION:Seattle 3 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_26_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    Kids Day - Back to School Carnival\n    Throwback Sunday\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120827T221025Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Seattle at Chi White Sox
+SUMMARY:Seattle 3 - Chi White Sox 4
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_26_seamlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120827T190500
+DTEND;TZID=America/New_York:20120827T220500
+DTSTAMP:20120925T170413Z
+UID:319645@mlb.com
+CREATED:20110908T191522Z
+DESCRIPTION:Chi White Sox 3 - Baltimore 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_27_chamlb_balmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120829T032224Z
+LOCATION:Oriole Park at Camden Yards, Baltimore
+SUMMARY:Chi White Sox 3 - Baltimore 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_27_chamlb_balmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120828T190500
+DTEND;TZID=America/New_York:20120828T220500
+DTSTAMP:20120925T170413Z
+UID:319657@mlb.com
+CREATED:20110908T191523Z
+DESCRIPTION:Chi White Sox 0 - Baltimore 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_28_chamlb_balmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN, MLBN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120829T104125Z
+LOCATION:Oriole Park at Camden Yards, Baltimore
+SUMMARY:Chi White Sox 0 - Baltimore 6
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_28_chamlb_balmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120829T190500
+DTEND;TZID=America/New_York:20120829T220500
+DTSTAMP:20120925T170413Z
+UID:319672@mlb.com
+CREATED:20110908T191525Z
+DESCRIPTION:Chi White Sox 8 - Baltimore 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_29_chamlb_balmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120830T113429Z
+LOCATION:Oriole Park at Camden Yards, Baltimore
+SUMMARY:Chi White Sox 8 - Baltimore 1
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_29_chamlb_balmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120830T123500
+DTEND;TZID=America/New_York:20120830T153500
+DTSTAMP:20120925T170413Z
+UID:319687@mlb.com
+CREATED:20110908T191526Z
+DESCRIPTION:Chi White Sox 3 - Baltimore 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_30_chamlb_balmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120831T194956Z
+LOCATION:Oriole Park at Camden Yards, Baltimore
+SUMMARY:Chi White Sox 3 - Baltimore 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_30_chamlb_balmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120831T190500
+DTEND;TZID=America/New_York:20120831T220500
+DTSTAMP:20120925T170413Z
+UID:319700@mlb.com
+CREATED:20110908T191528Z
+DESCRIPTION:Chi White Sox 4 - Detroit 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_31_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2012\n\nLocal TV: CSN, MLBN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120901T074749Z
+LOCATION:Comerica Park, Detroit
+SUMMARY:Chi White Sox 4 - Detroit 7
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_08_31_chamlb_detmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120901T190500
+DTEND;TZID=America/New_York:20120901T220500
+DTSTAMP:20120925T170413Z
+UID:319715@mlb.com
+CREATED:20110908T191530Z
+DESCRIPTION:Chi White Sox 1 - Detroit 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_01_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120902T130236Z
+LOCATION:Comerica Park, Detroit
+SUMMARY:Chi White Sox 1 - Detroit 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_01_chamlb_detmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120902T200600
+DTEND;TZID=America/New_York:20120902T230600
+DTSTAMP:20120925T170413Z
+UID:319730@mlb.com
+CREATED:20110908T191531Z
+DESCRIPTION:Chi White Sox 2 - Detroit 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_02_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: ESPN2\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120906T194132Z
+LOCATION:Comerica Park, Detroit
+SUMMARY:Chi White Sox 2 - Detroit 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_02_chamlb_detmlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120903T191000
 DTEND;TZID=America/New_York:20120903T221000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319750@mlb.com
 CREATED:20110908T191534Z
-DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_03_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Minnesota 2 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_03_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: MLBN, CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120904T143349Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Minnesota at Chi White Sox
+SUMMARY:Minnesota 2 - Chi White Sox 4
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_03_minmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120904T201000
 DTEND;TZID=America/New_York:20120904T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319765@mlb.com
 CREATED:20110908T191535Z
-DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_04_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Rock the Sox - Tony Lucca\n    Game Day Entertainment:\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Minnesota 18 - Chi White Sox 9\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_04_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Rock the Sox - Tony Lucca\n    Game Day Entertainment:\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120905T112344Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Minnesota at Chi White Sox
+SUMMARY:Minnesota 18 - Chi White Sox 9
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_04_minmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120905T141000
 DTEND;TZID=America/New_York:20120905T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319780@mlb.com
 CREATED:20110908T191537Z
-DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_05_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Minnesota 2 - Chi White Sox 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_05_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120906T024006Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Minnesota at Chi White Sox
+SUMMARY:Minnesota 2 - Chi White Sox 6
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_05_minmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120907T201000
 DTEND;TZID=America/New_York:20120907T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319799@mlb.com
 CREATED:20110908T191539Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_07_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Halfway to St. Patrick's Day, Fireworks & Green White Sox Cap\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Kansas City 7 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_07_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Halfway to St. Patrick's Day, Fireworks & Green White Sox Cap\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120919T153940Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Kansas City at Chi White Sox
+SUMMARY:Kansas City 7 - Chi White Sox 5
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_07_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120908T160500
 DTEND;TZID=America/New_York:20120908T190500
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319814@mlb.com
 CREATED:20110908T191541Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_08_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Star Wars Day\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: FOX\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Kansas City 4 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_08_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Star Wars Day\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: FOX\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120919T153942Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Kansas City at Chi White Sox
+SUMMARY:Kansas City 4 - Chi White Sox 5
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_08_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120909T141000
 DTEND;TZID=America/New_York:20120909T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319829@mlb.com
 CREATED:20110908T191542Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_09_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Grandparent's Day and Seniors Stroll the Bases\n    Throwback Sunday\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Kansas City 2 - Chi White Sox 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_09_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Grandparent's Day and Seniors Stroll the Bases\n    Throwback Sunday\n    Game Day Entertainment\n    Strike Out Stroke Day\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120919T153944Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Kansas City at Chi White Sox
+SUMMARY:Kansas City 2 - Chi White Sox 1
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_09_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120910T201000
 DTEND;TZID=America/New_York:20120910T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319839@mlb.com
 CREATED:20110908T191543Z
-DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_10_detmlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Detroit 1 - Chi White Sox 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_10_detmlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: MLBN, WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120919T153946Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Detroit at Chi White Sox
+SUMMARY:Detroit 1 - Chi White Sox 6
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_10_detmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120911T201000
 DTEND;TZID=America/New_York:20120911T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319850@mlb.com
 CREATED:20110908T191545Z
-DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_11_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Detroit 5 - Chi White Sox 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_11_detmlb_chamlb_1\n\nPromotions/Giveaways: \n    National Day of Remembrance\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120919T153947Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Detroit at Chi White Sox
+SUMMARY:Detroit 5 - Chi White Sox 3
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_11_detmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120912T201000
 DTEND;TZID=America/New_York:20120912T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:319865@mlb.com
 CREATED:20110908T191546Z
-DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_12_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Detroit 8 - Chi White Sox 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_12_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120919T153950Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Detroit at Chi White Sox
+SUMMARY:Detroit 8 - Chi White Sox 6
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_12_detmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20120913T201000
-DTEND;TZID=America/New_York:20120913T231000
-DTSTAMP:20120725T000608Z
+DTSTART;TZID=America/New_York:20120914T201000
+DTEND;TZID=America/New_York:20120914T231000
+DTSTAMP:20120925T170413Z
+UID:319889@mlb.com
+CREATED:20110908T191549Z
+DESCRIPTION:Chi White Sox 6 - Minnesota 0\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_14_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120919T153953Z
+LOCATION:Target Field, Minneapolis
+SUMMARY:Chi White Sox 6 - Minnesota 0
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_14_chamlb_minmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120915T131000
+DTEND;TZID=America/New_York:20120915T161000
+DTSTAMP:20120925T170413Z
+UID:319904@mlb.com
+CREATED:20110908T191550Z
+DESCRIPTION:Chi White Sox 5 - Minnesota 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_15_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120919T153956Z
+LOCATION:Target Field, Minneapolis
+SUMMARY:Chi White Sox 5 - Minnesota 3
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_15_chamlb_minmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120916T141000
+DTEND;TZID=America/New_York:20120916T171000
+DTSTAMP:20120925T170413Z
+UID:319919@mlb.com
+CREATED:20110908T191553Z
+DESCRIPTION:Chi White Sox 9 - Minnesota 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_16_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120919T153958Z
+LOCATION:Target Field, Minneapolis
+SUMMARY:Chi White Sox 9 - Minnesota 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_16_chamlb_minmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120917T141000
+DTEND;TZID=America/New_York:20120917T171000
+DTSTAMP:20120925T170413Z
 UID:319878@mlb.com
 CREATED:20110908T191548Z
-DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_13_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Detroit 4 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_17_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120919T153952Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Detroit at Chi White Sox
+SUMMARY:Detroit 4 - Chi White Sox 5
 TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_13_detmlb_chamlb_1
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_17_detmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120918T201000
+DTEND;TZID=America/New_York:20120918T231000
+DTSTAMP:20120925T170413Z
+UID:319940@mlb.com
+CREATED:20110908T191555Z
+DESCRIPTION:Chi White Sox 3 - Kansas City 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_18_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120919T154001Z
+LOCATION:Kauffman Stadium, Kansas City
+SUMMARY:Chi White Sox 3 - Kansas City 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_18_chamlb_kcamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120919T201000
+DTEND;TZID=America/New_York:20120919T231000
+DTSTAMP:20120925T170413Z
+UID:319955@mlb.com
+CREATED:20110908T191557Z
+DESCRIPTION:Chi White Sox 0 - Kansas City 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_19_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120920T181201Z
+LOCATION:Kauffman Stadium, Kansas City
+SUMMARY:Chi White Sox 0 - Kansas City 3
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_19_chamlb_kcamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120920T201000
+DTEND;TZID=America/New_York:20120920T231000
+DTSTAMP:20120925T170413Z
+UID:319968@mlb.com
+CREATED:20110908T191558Z
+DESCRIPTION:Chi White Sox 3 - Kansas City 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_20_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120922T123524Z
+LOCATION:Kauffman Stadium, Kansas City
+SUMMARY:Chi White Sox 3 - Kansas City 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_20_chamlb_kcamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120921T220500
+DTEND;TZID=America/New_York:20120922T010500
+DTSTAMP:20120925T170413Z
+UID:319982@mlb.com
+CREATED:20110908T191600Z
+DESCRIPTION:Chi White Sox 2 - LA Angels 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_21_chamlb_anamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120922T153401Z
+LOCATION:Angel Stadium of Anaheim, Anaheim
+SUMMARY:Chi White Sox 2 - LA Angels 6
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_21_chamlb_anamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120922T210500
+DTEND;TZID=America/New_York:20120923T000500
+DTSTAMP:20120925T170413Z
+UID:319997@mlb.com
+CREATED:20110908T191601Z
+DESCRIPTION:Chi White Sox 2 - LA Angels 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_22_chamlb_anamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN, MLBN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120923T073537Z
+LOCATION:Angel Stadium of Anaheim, Anaheim
+SUMMARY:Chi White Sox 2 - LA Angels 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_22_chamlb_anamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20120923T153500
+DTEND;TZID=America/New_York:20120923T183500
+DTSTAMP:20120925T170413Z
+UID:320012@mlb.com
+CREATED:20110908T191603Z
+DESCRIPTION:Chi White Sox 1 - LA Angels 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_23_chamlb_anamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120924T103942Z
+LOCATION:Angel Stadium of Anaheim, Anaheim
+SUMMARY:Chi White Sox 1 - LA Angels 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_23_chamlb_anamlb_1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120924T201000
 DTEND;TZID=America/New_York:20120924T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:320025@mlb.com
 CREATED:20110908T191604Z
-DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_24_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Cleveland 4 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_24_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120925T052659Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Cleveland at Chi White Sox
+SUMMARY:Cleveland 4 - Chi White Sox 5
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:2
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_24_clemlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20120925T201000
-DTEND;TZID=America/New_York:20120925T231000
-DTSTAMP:20120725T000608Z
+DTSTART;TZID=America/New_York:20120925T141000
+DTEND;TZID=America/New_York:20120925T171000
+DTSTAMP:20120925T170413Z
 UID:320034@mlb.com
 CREATED:20110908T191605Z
-DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_25_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Cleveland at Chi White Sox\n\nProbable Starters - \nHome: Liriano, Francisco\nVisiting: Kluber, Corey\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_25_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Oktoberfest\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120925T160907Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Cleveland at Chi White Sox
 TRANSP:TRANSPARENT
@@ -1342,11 +2658,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120926T201000
 DTEND;TZID=America/New_York:20120926T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:320049@mlb.com
 CREATED:20110908T191607Z
-DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_26_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Dog Day\n    Game Day Entertainment\n    Rock the Sox - Ari Hest\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Cleveland at Chi White Sox\n\nProbable Starters - \nHome: Santiago, Hector\nVisiting: Masterson, Justin\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_26_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Dog Day\n    Rock the Sox - Ari Hest\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120925T160908Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Cleveland at Chi White Sox
 TRANSP:TRANSPARENT
@@ -1356,11 +2672,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120927T201000
 DTEND;TZID=America/New_York:20120927T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:320072@mlb.com
 CREATED:20110908T191609Z
-DESCRIPTION:Tampa Bay at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_27_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    NIU Night\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Tampa Bay at Chi White Sox\n\nProbable Starters - \nHome: Peavy, Jake\nVisiting: Shields, James\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_27_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    NIU Night\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120925T160908Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Tampa Bay at Chi White Sox
 TRANSP:TRANSPARENT
@@ -1370,11 +2686,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120928T201000
 DTEND;TZID=America/New_York:20120928T231000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:320087@mlb.com
 CREATED:20110908T191611Z
-DESCRIPTION:Tampa Bay at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_28_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    Hispanic Heritage Night and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Tampa Bay at Chi White Sox\n\nProbable Starters - \nHome: -----\nVisiting: Moore, Matt\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_28_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    Hispanic Heritage Night and Fireworks\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120925T160908Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Tampa Bay at Chi White Sox
 TRANSP:TRANSPARENT
@@ -1382,13 +2698,13 @@ SEQUENCE:0
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_28_tbamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20120929T191000
-DTEND;TZID=America/New_York:20120929T221000
-DTSTAMP:20120725T000608Z
+DTSTART;TZID=America/New_York:20120929T160500
+DTEND;TZID=America/New_York:20120929T190500
+DTSTAMP:20120925T170413Z
 UID:320102@mlb.com
 CREATED:20110908T191613Z
-DESCRIPTION:Tampa Bay at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_29_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks\n    Game Day Entertainment\n    Rock the Sox - Lovehammers\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Tampa Bay at Chi White Sox\n\nProbable Starters - \nHome: -----\nVisiting: Hellickson, Jeremy\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_29_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    Rock the Sox - Lovehammers\n    Game Day Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: FOX\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120925T160908Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Tampa Bay at Chi White Sox
 TRANSP:TRANSPARENT
@@ -1398,15 +2714,57 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20120930T141000
 DTEND;TZID=America/New_York:20120930T171000
-DTSTAMP:20120725T000608Z
+DTSTAMP:20120925T170413Z
 UID:320117@mlb.com
 CREATED:20110908T191614Z
-DESCRIPTION:Tampa Bay at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_30_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    Fan Appreciation Day\n    Throwback Sunday\n    Game Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20120521T143623Z
+DESCRIPTION:Tampa Bay at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_30_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    Fan Appreciation Day and Commemorative 2012 White Sox Team Photo presented by Rivers Casino - first 20,000 fans 21 and older\n    Throwback Sunday\n    Game Entertainment\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2012\n\nLocal TV: TBS, CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120925T160908Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Tampa Bay at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
 URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_09_30_tbamlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20121001T190500
+DTEND;TZID=America/New_York:20121001T220500
+DTSTAMP:20120925T170413Z
+UID:320123@mlb.com
+CREATED:20110908T191615Z
+DESCRIPTION:Chi White Sox at Cleveland\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_10_01_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=10&y=2012\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120925T160908Z
+LOCATION:Progressive Field, Cleveland
+SUMMARY:Chi White Sox at Cleveland
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_10_01_chamlb_clemlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20121002T190500
+DTEND;TZID=America/New_York:20121002T220500
+DTSTAMP:20120925T170413Z
+UID:320138@mlb.com
+CREATED:20110908T191617Z
+DESCRIPTION:Chi White Sox at Cleveland\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_10_02_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=10&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120919T153859Z
+LOCATION:Progressive Field, Cleveland
+SUMMARY:Chi White Sox at Cleveland
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_10_02_chamlb_clemlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20121003T190500
+DTEND;TZID=America/New_York:20121003T220500
+DTSTAMP:20120925T170413Z
+UID:320153@mlb.com
+CREATED:20110908T191618Z
+DESCRIPTION:Chi White Sox at Cleveland\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_10_03_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=10&y=2012\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20120919T153901Z
+LOCATION:Progressive Field, Cleveland
+SUMMARY:Chi White Sox at Cleveland
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_10_03_chamlb_clemlb_1
 END:VEVENT
 END:VCALENDAR
