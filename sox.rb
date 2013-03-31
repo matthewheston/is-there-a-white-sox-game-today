@@ -10,6 +10,7 @@ end
 
 get '/' do
   @today = Game.today
+  @last_updated = File.mtime("res/schedule.ics")
   erb :index
 end
 

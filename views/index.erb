@@ -28,6 +28,12 @@
                            "YES at %{time}" % {:time => @today.dtstart.in_time_zone('Central Time (US & Canada)').strftime("%l:%M %p")}
         else "NO" end%>
       </div>
+      <br /><br />
+      <div class="center">
+        <%=
+          "Schedule last updated on %{updated}" % {:updated => @last_updated.strftime("%B %-d, %Y") }
+        %>
+      </div>
 
   <br /> <br /> <br />
   <div class="center"><a href="/about">About this Site</div>
