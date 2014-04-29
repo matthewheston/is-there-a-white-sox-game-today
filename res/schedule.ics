@@ -3,7 +3,7 @@ PRODID:-//MLB.com//Schedule Calendar 0.001//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:2013 Chicago White Sox Home Schedule
+X-WR-CALNAME:2014 Chicago White Sox Home Schedule
 X-WR-TIMEZONE:America/New_York
 BEGIN:VTIMEZONE
 TZID:America/New_York
@@ -24,1375 +24,1347 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130224T150500
-DTEND;TZID=America/New_York:20130224T180500
-DTSTAMP:20130331T163510Z
-UID:362983@mlb.com
-CREATED:20121211T223453Z
-DESCRIPTION:Spring: LA Dodgers 2 - Chi White Sox 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_24_lanmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=02&y=2013\n\nLocal TV: MLB.com\nLocal Radio: WSCR 670
-LAST-MODIFIED:20130227T170013Z
+DTSTART;TZID=America/New_York:20140301T150500
+DTEND;TZID=America/New_York:20140301T180500
+DTSTAMP:20140429T145238Z
+UID:396200@mlb.com
+CREATED:20131122T115613Z
+DESCRIPTION:Spring: Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_01_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n\nLocal Radio: MLB.com
+LAST-MODIFIED:20140302T015635Z
 LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: LA Dodgers 2 - Chi White Sox 2
-TRANSP:TRANSPARENT
-SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_24_lanmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130227T150500
-DTEND;TZID=America/New_York:20130227T180500
-DTSTAMP:20130331T163510Z
-UID:363040@mlb.com
-CREATED:20121211T223459Z
-DESCRIPTION:Spring: Texas 4 - Chi White Sox 8\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_27_texmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=02&y=2013\n\nLocal TV: MLB.com
-LAST-MODIFIED:20130227T231815Z
-LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: Texas 4 - Chi White Sox 8
-TRANSP:TRANSPARENT
-SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_27_texmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130302T150500
-DTEND;TZID=America/New_York:20130302T180500
-DTSTAMP:20130331T163510Z
-UID:363078@mlb.com
-CREATED:20121211T223503Z
-DESCRIPTION:Spring: Cincinnati 0 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_02_cinmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2013\n\nLocal TV: MLB.com\nLocal Radio: WSCR 670
-LAST-MODIFIED:20130302T224502Z
-LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: Cincinnati 0 - Chi White Sox 4
-TRANSP:TRANSPARENT
-SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_02_cinmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130304T150500
-DTEND;TZID=America/New_York:20130304T180500
-DTSTAMP:20130331T163510Z
-UID:363114@mlb.com
-CREATED:20121211T223507Z
-DESCRIPTION:Spring: San Francisco 2 - Chi White Sox 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_04_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2013\n\nLocal TV: MLB.com
-LAST-MODIFIED:20130305T204020Z
-LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: San Francisco 2 - Chi White Sox 6
-TRANSP:TRANSPARENT
-SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_04_sfnmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130305T150500
-DTEND;TZID=America/New_York:20130305T180500
-DTSTAMP:20130331T163510Z
-UID:363131@mlb.com
-CREATED:20121211T223509Z
-DESCRIPTION:Exhibition: United States 4 - Chi White Sox 4\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2013\n\nLocal TV: MLB.com
-LAST-MODIFIED:20130305T231113Z
-LOCATION:Camelback Ranch, Glendale
-SUMMARY:Exhibition: United States 4 - Chi White Sox 4
-TRANSP:TRANSPARENT
-SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_05_usaint_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130308T150500
-DTEND;TZID=America/New_York:20130308T180500
-DTSTAMP:20130331T163510Z
-UID:363177@mlb.com
-CREATED:20121211T223514Z
-DESCRIPTION:Spring: San Diego at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_08_sdnmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2013\n\nLocal TV: MLB.com
-LAST-MODIFIED:20130308T212302Z
-LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: San Diego at Chi White Sox
+SUMMARY:Spring: Cleveland at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:1
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_08_sdnmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_01_clemlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130310T160500
-DTEND;TZID=America/New_York:20130310T190500
-DTSTAMP:20130331T163510Z
-UID:363201@mlb.com
-CREATED:20121211T223516Z
-DESCRIPTION:Spring: Cincinnati 7 - Chi White Sox 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_10_cinmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2013\n\nLocal TV: MLB.com\nLocal Radio: WSCR 670
-LAST-MODIFIED:20130310T235234Z
+DTSTART;TZID=America/New_York:20140303T150500
+DTEND;TZID=America/New_York:20140303T180500
+DTSTAMP:20140429T145238Z
+UID:396201@mlb.com
+CREATED:20131122T115613Z
+DESCRIPTION:Spring: Kansas City 7 - Chi White Sox 9\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_03_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n\nLocal Radio: MLB.com
+LAST-MODIFIED:20140303T231443Z
 LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: Cincinnati 7 - Chi White Sox 3
+SUMMARY:Spring: Kansas City 7 - Chi White Sox 9
 TRANSP:TRANSPARENT
 SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_10_cinmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_03_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130311T160500
-DTEND;TZID=America/New_York:20130311T190500
-DTSTAMP:20130331T163510Z
-UID:363218@mlb.com
-CREATED:20121211T223518Z
-DESCRIPTION:Spring: Colorado 1 - Chi White Sox 3\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_11_colmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2013\n\nLocal TV: MLB.com
-LAST-MODIFIED:20130311T222608Z
+DTSTART;TZID=America/New_York:20140305T150500
+DTEND;TZID=America/New_York:20140305T180500
+DTSTAMP:20140429T145238Z
+UID:396202@mlb.com
+CREATED:20131122T115613Z
+DESCRIPTION:Spring: San Diego 8 - Chi White Sox 0\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_05_sdnmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n
+LAST-MODIFIED:20140305T225035Z
 LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: Colorado 1 - Chi White Sox 3
+SUMMARY:Spring: San Diego 8 - Chi White Sox 0
 TRANSP:TRANSPARENT
 SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_11_colmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_05_sdnmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130313T160500
-DTEND;TZID=America/New_York:20130313T190500
-DTSTAMP:20130331T163510Z
-UID:363239@mlb.com
-CREATED:20121211T223520Z
-DESCRIPTION:Spring: Cleveland 5 - Chi White Sox 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_13_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2013\n\nLocal TV: MLB.com
-LAST-MODIFIED:20130313T225720Z
+DTSTART;TZID=America/New_York:20140306T150500
+DTEND;TZID=America/New_York:20140306T180500
+DTSTAMP:20140429T145238Z
+UID:396203@mlb.com
+CREATED:20131122T115613Z
+DESCRIPTION:Spring: Seattle 7 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_06_seamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n
+LAST-MODIFIED:20140306T233127Z
 LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: Cleveland 5 - Chi White Sox 2
+SUMMARY:Spring: Seattle 7 - Chi White Sox 4
 TRANSP:TRANSPARENT
 SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_13_clemlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_06_seamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130315T150500
-DTEND;TZID=America/New_York:20130315T180500
-DTSTAMP:20130331T163510Z
-UID:363264@mlb.com
-CREATED:20121211T223523Z
-DESCRIPTION:Spring: Chi Cubs 3 - Chi White Sox 15\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_15_chnmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2013\n\nLocal TV: WGN\nLocal Radio: WSCR 670
-LAST-MODIFIED:20130315T234740Z
+DTSTART;TZID=America/New_York:20140308T150500
+DTEND;TZID=America/New_York:20140308T180500
+DTSTAMP:20140429T145238Z
+UID:396204@mlb.com
+CREATED:20131122T115613Z
+DESCRIPTION:Spring: Arizona 6 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_08_arimlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n\nLocal Radio: MLB.com, WSCR 670
+LAST-MODIFIED:20140308T233353Z
 LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: Chi Cubs 3 - Chi White Sox 15
+SUMMARY:Spring: Arizona 6 - Chi White Sox 4
 TRANSP:TRANSPARENT
 SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_15_chnmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_08_arimlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130316T160500
-DTEND;TZID=America/New_York:20130316T190500
-DTSTAMP:20130331T163510Z
-UID:363293@mlb.com
-CREATED:20121211T223526Z
-DESCRIPTION:Spring: Oakland 5 - Chi White Sox 11\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_16_oakmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2013\n\nLocal TV: MLB.com\nLocal Radio: WSCR 670
-LAST-MODIFIED:20130317T000547Z
+DTSTART;TZID=America/New_York:20140311T160500
+DTEND;TZID=America/New_York:20140311T190500
+DTSTAMP:20140429T145238Z
+UID:396205@mlb.com
+CREATED:20131122T115614Z
+DESCRIPTION:Spring: Texas 6 - Chi White Sox 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_11_texmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n
+LAST-MODIFIED:20140311T230607Z
 LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: Oakland 5 - Chi White Sox 11
+SUMMARY:Spring: Texas 6 - Chi White Sox 7
 TRANSP:TRANSPARENT
 SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_16_oakmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_11_texmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130320T160500
-DTEND;TZID=America/New_York:20130320T190500
-DTSTAMP:20130331T163510Z
-UID:363339@mlb.com
-CREATED:20121211T223530Z
-DESCRIPTION:Spring: Arizona 4 - Chi White Sox 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_20_arimlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2013\n\nLocal TV: MLB.com
-LAST-MODIFIED:20130320T230937Z
+DTSTART;TZID=America/New_York:20140314T160500
+DTEND;TZID=America/New_York:20140314T190500
+DTSTAMP:20140429T145238Z
+UID:396206@mlb.com
+CREATED:20131122T115614Z
+DESCRIPTION:Spring: Cleveland 2 - Chi White Sox 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_14_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n\nLocal TV: CSN
+LAST-MODIFIED:20140314T230147Z
 LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: Arizona 4 - Chi White Sox 2
+SUMMARY:Spring: Cleveland 2 - Chi White Sox 2
 TRANSP:TRANSPARENT
 SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_20_arimlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_14_clemlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130321T160500
-DTEND;TZID=America/New_York:20130321T190500
-DTSTAMP:20130331T163510Z
-UID:363355@mlb.com
-CREATED:20121211T223532Z
-DESCRIPTION:Spring: Milwaukee 3 - Chi White Sox 8\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_21_milmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2013\n\nLocal TV: MLB.com
-LAST-MODIFIED:20130321T224419Z
+DTSTART;TZID=America/New_York:20140315T220500
+DTEND;TZID=America/New_York:20140316T010500
+DTSTAMP:20140429T145238Z
+UID:396207@mlb.com
+CREATED:20131122T115614Z
+DESCRIPTION:Spring: LA Dodgers 4 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_15_lanmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n\nLocal TV: MLBN, CSN\nLocal Radio: WSCR 670
+LAST-MODIFIED:20140321T173647Z
 LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: Milwaukee 3 - Chi White Sox 8
+SUMMARY:Spring: LA Dodgers 4 - Chi White Sox 5
 TRANSP:TRANSPARENT
 SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_21_milmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_15_lanmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130324T160500
-DTEND;TZID=America/New_York:20130324T190500
-DTSTAMP:20130331T163510Z
-UID:363402@mlb.com
-CREATED:20121211T223537Z
-DESCRIPTION:Spring: Kansas City 8 - Chi White Sox 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_24_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2013\n\nLocal TV: CSN, MLBN (delay)\nLocal Radio: WSCR 670
-LAST-MODIFIED:20130324T230351Z
+DTSTART;TZID=America/New_York:20140318T160500
+DTEND;TZID=America/New_York:20140318T190500
+DTSTAMP:20140429T145238Z
+UID:396208@mlb.com
+CREATED:20131122T115614Z
+DESCRIPTION:Spring: Oakland 16 - Chi White Sox 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_18_oakmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n\nLocal TV: CSN, MLBN
+LAST-MODIFIED:20140329T212428Z
 LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: Kansas City 8 - Chi White Sox 2
+SUMMARY:Spring: Oakland 16 - Chi White Sox 6
 TRANSP:TRANSPARENT
 SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_24_kcamlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_18_oakmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130325T160500
-DTEND;TZID=America/New_York:20130325T190500
-DTSTAMP:20130331T163510Z
-UID:363411@mlb.com
-CREATED:20121211T223538Z
-DESCRIPTION:Spring: LA Angels 11 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_25_anamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2013\n\nLocal TV: MLB.com
-LAST-MODIFIED:20130325T231501Z
+DTSTART;TZID=America/New_York:20140319T160500
+DTEND;TZID=America/New_York:20140319T190500
+DTSTAMP:20140429T145238Z
+UID:396209@mlb.com
+CREATED:20131122T115614Z
+DESCRIPTION:Spring: LA Angels 14 - Chi White Sox 10\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_19_anamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n\nLocal TV: MLBN, CSN
+LAST-MODIFIED:20140319T234900Z
 LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: LA Angels 11 - Chi White Sox 5
+SUMMARY:Spring: LA Angels 14 - Chi White Sox 10
 TRANSP:TRANSPARENT
 SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_25_anamlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_19_anamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130327T150500
-DTEND;TZID=America/New_York:20130327T180500
-DTSTAMP:20130331T163510Z
-UID:363440@mlb.com
-CREATED:20121211T223541Z
-DESCRIPTION:Spring: Cleveland 4 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_27_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2013\n\nLocal TV: CSN, MLBN (delay)
-LAST-MODIFIED:20130327T220726Z
+DTSTART;TZID=America/New_York:20140321T160500
+DTEND;TZID=America/New_York:20140321T190500
+DTSTAMP:20140429T145238Z
+UID:396210@mlb.com
+CREATED:20131122T115614Z
+DESCRIPTION:Spring: Chi Cubs 7 - Chi White Sox 0\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_21_chnmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n\nLocal TV: MLBN, CSN\nLocal Radio: WSCR 670
+LAST-MODIFIED:20140321T235629Z
 LOCATION:Camelback Ranch, Glendale
-SUMMARY:Spring: Cleveland 4 - Chi White Sox 5
+SUMMARY:Spring: Chi Cubs 7 - Chi White Sox 0
 TRANSP:TRANSPARENT
 SEQUENCE:2
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_27_clemlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_21_chnmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130401T161000
-DTEND;TZID=America/New_York:20130401T191000
-DTSTAMP:20130331T163510Z
-UID:346186@mlb.com
-CREATED:20120910T223725Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nProbable Starters - \nHome: Sale, Chris\nVisiting: Shields, James\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_01_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Opening Day, White Sox Magnetic Schedule and Rally Towel\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130328T073247Z
+DTSTART;TZID=America/New_York:20140322T160500
+DTEND;TZID=America/New_York:20140322T190500
+DTSTAMP:20140429T145238Z
+UID:396211@mlb.com
+CREATED:20131122T115614Z
+DESCRIPTION:Spring: San Francisco 8 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_22_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n\nLocal TV: CSN\nLocal Radio: WSCR 670
+LAST-MODIFIED:20140322T234342Z
+LOCATION:Camelback Ranch, Glendale
+SUMMARY:Spring: San Francisco 8 - Chi White Sox 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_22_sfnmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140325T160500
+DTEND;TZID=America/New_York:20140325T190500
+DTSTAMP:20140429T145238Z
+UID:396212@mlb.com
+CREATED:20131122T115614Z
+DESCRIPTION:Spring: Colorado 4 - Chi White Sox 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_25_colmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n
+LAST-MODIFIED:20140326T032434Z
+LOCATION:Camelback Ranch, Glendale
+SUMMARY:Spring: Colorado 4 - Chi White Sox 1
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_25_colmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140326T160500
+DTEND;TZID=America/New_York:20140326T190500
+DTSTAMP:20140429T145238Z
+UID:396213@mlb.com
+CREATED:20131122T115615Z
+DESCRIPTION:Spring: Cincinnati 5 - Chi White Sox 9\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_26_cinmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n\nLocal TV: MLBN, CSN
+LAST-MODIFIED:20140326T225701Z
+LOCATION:Camelback Ranch, Glendale
+SUMMARY:Spring: Cincinnati 5 - Chi White Sox 9
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_26_cinmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140331T161000
+DTEND;TZID=America/New_York:20140331T191000
+DTSTAMP:20140429T145238Z
+UID:380547@mlb.com
+CREATED:20130904T143235Z
+DESCRIPTION:Minnesota 3 - Chi White Sox 5\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_31_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Opening Day\n    White Sox Magnetic Schedule\n    First Pitch: 2014 Olympian Aja Evans\n    National Anthem by Gina Glocksen, former American Idol contestant\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=03&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Kansas City at Chi White Sox
+SUMMARY:Minnesota 3 - Chi White Sox 5
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_03_31_minmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140402T141000
+DTEND;TZID=America/New_York:20140402T171000
+DTSTAMP:20140429T145238Z
+UID:380570@mlb.com
+CREATED:20130904T143242Z
+DESCRIPTION:Minnesota 6 - Chi White Sox 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_02_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    First Pitch: Doc Shaw\n    National Anthem: Amanda Schnoebelen\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Minnesota 6 - Chi White Sox 7
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_02_minmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140403T141000
+DTEND;TZID=America/New_York:20140403T171000
+DTSTAMP:20140429T145238Z
+UID:380582@mlb.com
+CREATED:20130904T143245Z
+DESCRIPTION:Minnesota 10 - Chi White Sox 9\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_03_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    National Anthem: Misericordia's Heartzinger Choir\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Minnesota 10 - Chi White Sox 9
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_03_minmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140410T201000
+DTEND;TZID=America/New_York:20140410T231000
+DTSTAMP:20140429T145238Z
+UID:380673@mlb.com
+CREATED:20130904T143310Z
+DESCRIPTION:Cleveland 3 - Chi White Sox 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_10_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    First Pitch: Cliff Toberman\n    National Anthem: Three Men in Kilts\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142218Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Cleveland 3 - Chi White Sox 7
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_10_clemlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140411T201000
+DTEND;TZID=America/New_York:20140411T231000
+DTSTAMP:20140429T145238Z
+UID:380682@mlb.com
+CREATED:20130904T143313Z
+DESCRIPTION:Cleveland 6 - Chi White Sox 9\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_11_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    K Zone For Sale\n    First Pitch: Kyle Davis\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142218Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Cleveland 6 - Chi White Sox 9
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_11_clemlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140412T141000
+DTEND;TZID=America/New_York:20140412T171000
+DTSTAMP:20140429T145238Z
+UID:380697@mlb.com
+CREATED:20130904T143317Z
+DESCRIPTION:Cleveland 12 - Chi White Sox 6\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_12_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    1983 White Sox Fleece Blanket\n    Girl Scout Day\n    First Pitch: Girl Scout Junior Aleksandra Sheridan\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142218Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Cleveland 12 - Chi White Sox 6
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_12_clemlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140413T141000
+DTEND;TZID=America/New_York:20140413T171000
+DTSTAMP:20140429T145238Z
+UID:380712@mlb.com
+CREATED:20130904T143321Z
+DESCRIPTION:Cleveland 3 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_13_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n    First Pitch: Phil Nussbaum\n    National Anthem: Thomas Hart Middle School Band\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142218Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Cleveland 3 - Chi White Sox 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_13_clemlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140415T201000
+DTEND;TZID=America/New_York:20140415T231000
+DTSTAMP:20140429T145238Z
+UID:380735@mlb.com
+CREATED:20130904T143328Z
+DESCRIPTION:Boston 1 - Chi White Sox 2\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_15_bosmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Calendars\n    Jackie Robinson Day\n    First Pitch: Fenger Academy High School principal Liz Dozier\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142218Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Boston 1 - Chi White Sox 2
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_15_bosmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140416T201000
+DTEND;TZID=America/New_York:20140416T231000
+DTSTAMP:20140429T145238Z
+UID:380750@mlb.com
+CREATED:20130904T143332Z
+DESCRIPTION:Boston 6 - Chi White Sox 4\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_16_bosmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Calendars\n    First Pitch: actor LaRoyce Hawkins\n    National Anthem: Liberty Junior High School Band\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142218Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Boston 6 - Chi White Sox 4
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_16_bosmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140417T201000
+DTEND;TZID=America/New_York:20140417T231000
+DTSTAMP:20140429T145238Z
+UID:380765@mlb.com
+CREATED:20130904T143337Z
+DESCRIPTION:Boston 3 - Chi White Sox 1\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_17_bosmlb_chamlb_1\n\nPromotions/Giveaways: \n    K Zone For Sale\n    White Sox Calendars\n    First Pitch: Secretary of State Jesse White\n    National Anthem: Crystal Lake South High School A Cappella Choir\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142218Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Boston 3 - Chi White Sox 1
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_17_bosmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140425T201000
+DTEND;TZID=America/New_York:20140425T231000
+DTSTAMP:20140429T145238Z
+UID:380887@mlb.com
+CREATED:20130904T143411Z
+DESCRIPTION:Tampa Bay 6 - Chi White Sox 9\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_25_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Reusable Tote\n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140426T090348Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Tampa Bay 6 - Chi White Sox 9
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_25_tbamlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140426T191000
+DTEND;TZID=America/New_York:20140426T221000
+DTSTAMP:20140429T145238Z
+UID:380902@mlb.com
+CREATED:20130904T143416Z
+DESCRIPTION:Tampa Bay 4 - Chi White Sox 0\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_26_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    Minnie Minoso Replica Statue\n    Fireworks\n    First Pitch: Minnie Minoso\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: MLBN, CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140427T154313Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Tampa Bay 4 - Chi White Sox 0
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_26_tbamlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140427T141000
+DTEND;TZID=America/New_York:20140427T171000
+DTSTAMP:20140429T145238Z
+UID:380917@mlb.com
+CREATED:20130904T143420Z
+DESCRIPTION:Tampa Bay 2 - Chi White Sox 9\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_27_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140428T145438Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Tampa Bay 2 - Chi White Sox 9
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_27_tbamlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140428T201000
+DTEND;TZID=America/New_York:20140428T231000
+DTSTAMP:20140429T145238Z
+UID:380925@mlb.com
+CREATED:20130904T143422Z
+DESCRIPTION:Tampa Bay 3 - Chi White Sox 7\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_28_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    Dog Day #1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140429T100237Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Tampa Bay 3 - Chi White Sox 7
+TRANSP:TRANSPARENT
+SEQUENCE:2
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_28_tbamlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140429T201000
+DTEND;TZID=America/New_York:20140429T231000
+DTSTAMP:20140429T145238Z
+UID:380930@mlb.com
+CREATED:20130904T143424Z
+DESCRIPTION:Detroit at Chi White Sox\n\nProbable Starters - \nHome: Quintana, Jose\nVisiting: Verlander, Justin\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_29_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140428T001440Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Detroit at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_01_kcamlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_29_detmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130403T141000
-DTEND;TZID=America/New_York:20130403T171000
-DTSTAMP:20130331T163510Z
-UID:346767@mlb.com
-CREATED:20120910T223728Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nProbable Starters - \nHome: Peavy, Jake\nVisiting: Santana, Ervin\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_03_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130328T073247Z
+DTSTART;TZID=America/New_York:20140430T141000
+DTEND;TZID=America/New_York:20140430T171000
+DTSTAMP:20140429T145238Z
+UID:380945@mlb.com
+CREATED:20130904T143428Z
+DESCRIPTION:Detroit at Chi White Sox\n\nProbable Starters - \nHome: -----\nVisiting: Scherzer, Max\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_30_detmlb_chamlb_1\n\nPromotions/Giveaways: \n    Weather Day\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2014\n\nLocal TV: WGN, MLBN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140428T001440Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Kansas City at Chi White Sox
+SUMMARY:Detroit at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_03_kcamlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_04_30_detmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130404T141000
-DTEND;TZID=America/New_York:20130404T171000
-DTSTAMP:20130331T163510Z
-UID:346782@mlb.com
-CREATED:20120910T223729Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nProbable Starters - \nHome: Floyd, Gavin\nVisiting: Guthrie, Jeremy\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_04_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130328T073247Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Kansas City at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_04_kcamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130405T201000
-DTEND;TZID=America/New_York:20130405T231000
-DTSTAMP:20130331T163510Z
-UID:346797@mlb.com
-CREATED:20120910T223731Z
-DESCRIPTION:Seattle at Chi White Sox\n\nProbable Starters - \nHome: Quintana, Jose\nVisiting: Beavan, Blake\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_05_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Calendar\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130328T052818Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Seattle at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_05_seamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130406T131000
-DTEND;TZID=America/New_York:20130406T161000
-DTSTAMP:20130331T163510Z
-UID:346814@mlb.com
-CREATED:20120910T223733Z
-DESCRIPTION:Seattle at Chi White Sox\n\nProbable Starters - \nHome: Axelrod, Dylan\nVisiting: -----\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_06_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    1983 White Sox Knit Bomber Hat\n    White Sox Calendar\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130328T052819Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Seattle at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_06_seamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130407T141000
-DTEND;TZID=America/New_York:20130407T171000
-DTSTAMP:20130331T163510Z
-UID:346828@mlb.com
-CREATED:20120910T223735Z
-DESCRIPTION:Seattle at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_07_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n    White Sox Calendar\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130328T052819Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Seattle at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_07_seamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130419T201000
-DTEND;TZID=America/New_York:20130419T231000
-DTSTAMP:20130331T163510Z
-UID:346984@mlb.com
-CREATED:20120910T223755Z
-DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_19_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Drawstring Bag\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Minnesota at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_19_minmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130420T150500
-DTEND;TZID=America/New_York:20130420T180500
-DTSTAMP:20130331T163510Z
-UID:347000@mlb.com
-CREATED:20120910T223757Z
-DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_20_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Puzzle Cube\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: FOX\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Minnesota at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_20_minmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130421T141000
-DTEND;TZID=America/New_York:20130421T171000
-DTSTAMP:20130331T163510Z
-UID:347014@mlb.com
-CREATED:20120910T223758Z
-DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_21_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Minnesota at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_21_minmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130422T201000
-DTEND;TZID=America/New_York:20130422T231000
-DTSTAMP:20130331T163510Z
-UID:347025@mlb.com
-CREATED:20120910T223800Z
-DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_22_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Cleveland at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_22_clemlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130423T201000
-DTEND;TZID=America/New_York:20130423T231000
-DTSTAMP:20130331T163510Z
-UID:347038@mlb.com
-CREATED:20120910T223802Z
-DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_23_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Dog Day #1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Cleveland at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_23_clemlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130424T141000
-DTEND;TZID=America/New_York:20130424T171000
-DTSTAMP:20130331T163510Z
-UID:347053@mlb.com
-CREATED:20120910T223803Z
-DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_24_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Weather Day\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Cleveland at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_24_clemlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130425T201000
-DTEND;TZID=America/New_York:20130425T231000
-DTSTAMP:20130331T163510Z
-UID:347070@mlb.com
-CREATED:20120910T223805Z
-DESCRIPTION:Tampa Bay at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_25_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    Ladies Night Festival on the Plaza\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Tampa Bay at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_25_tbamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130426T201000
-DTEND;TZID=America/New_York:20130426T231000
-DTSTAMP:20130331T163510Z
-UID:347084@mlb.com
-CREATED:20120910T223807Z
-DESCRIPTION:Tampa Bay at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_26_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Tampa Bay at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_26_tbamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130427T191000
-DTEND;TZID=America/New_York:20130427T221000
-DTSTAMP:20130331T163510Z
-UID:347101@mlb.com
-CREATED:20120910T223809Z
-DESCRIPTION:Tampa Bay at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_27_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    Harold Baines Bobblehead\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194434Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Tampa Bay at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_27_tbamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130428T141000
-DTEND;TZID=America/New_York:20130428T171000
-DTSTAMP:20130331T163510Z
-UID:347115@mlb.com
-CREATED:20120910T223811Z
-DESCRIPTION:Tampa Bay at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_28_tbamlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=04&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194434Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Tampa Bay at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_28_tbamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130510T201000
-DTEND;TZID=America/New_York:20130510T231000
-DTSTAMP:20130331T163510Z
-UID:347263@mlb.com
-CREATED:20120910T223828Z
-DESCRIPTION:LA Angels at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_10_anamlb_chamlb_1\n\nPromotions/Giveaways: \n    Cinco past Cinco de Mayo and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194434Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:LA Angels at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_10_anamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130511T191000
-DTEND;TZID=America/New_York:20130511T221000
-DTSTAMP:20130331T163510Z
-UID:347278@mlb.com
-CREATED:20120910T223829Z
-DESCRIPTION:LA Angels at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_11_anamlb_chamlb_1\n\nPromotions/Giveaways: \n    Paul Konerko Bobblehead\n    Mother/Son Night\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194430Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:LA Angels at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_11_anamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130512T200500
-DTEND;TZID=America/New_York:20130512T230500
-DTSTAMP:20130331T163510Z
-UID:347293@mlb.com
-CREATED:20120910T223831Z
-DESCRIPTION:LA Angels at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_12_anamlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n    White Sox Mother's Day Tote\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2013\n\nLocal TV: ESPN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194206Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:LA Angels at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_12_anamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130520T201000
-DTEND;TZID=America/New_York:20130520T231000
-DTSTAMP:20130331T163510Z
-UID:347402@mlb.com
-CREATED:20120910T223844Z
-DESCRIPTION:Boston at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_20_bosmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Rally Towel\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194430Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Boston at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_20_bosmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130521T201000
-DTEND;TZID=America/New_York:20130521T231000
-DTSTAMP:20130331T163510Z
-UID:347415@mlb.com
-CREATED:20120910T223845Z
-DESCRIPTION:Boston at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_21_bosmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Rally Towel\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2013\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194430Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Boston at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_21_bosmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130522T201000
-DTEND;TZID=America/New_York:20130522T231000
-DTSTAMP:20130331T163510Z
-UID:347430@mlb.com
-CREATED:20120910T223847Z
-DESCRIPTION:Boston at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_22_bosmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Boston at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_22_bosmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130524T201000
-DTEND;TZID=America/New_York:20130524T231000
-DTSTAMP:20130331T163510Z
-UID:347454@mlb.com
-CREATED:20120910T223850Z
-DESCRIPTION:Miami at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_24_miamlb_chamlb_1\n\nPromotions/Giveaways: \n    Sports and Marketing Career Fair\n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Miami at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_24_miamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130525T191500
-DTEND;TZID=America/New_York:20130525T221500
-DTSTAMP:20130331T163510Z
-UID:347469@mlb.com
-CREATED:20120910T223851Z
-DESCRIPTION:Miami at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_25_miamlb_chamlb_1\n\nPromotions/Giveaways: \n    1983 White Sox Cap\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2013\n\nLocal TV: FOX\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Miami at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_25_miamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130526T141000
-DTEND;TZID=America/New_York:20130526T171000
-DTSTAMP:20130331T163510Z
-UID:347484@mlb.com
-CREATED:20120910T223853Z
-DESCRIPTION:Miami at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_26_miamlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n    White Sox Wall Cling\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Miami at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_26_miamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130527T191000
-DTEND;TZID=America/New_York:20130527T221000
-DTSTAMP:20130331T163510Z
-UID:347495@mlb.com
-CREATED:20120910T223854Z
-DESCRIPTION:Chi Cubs at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_27_chnmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox/Miller Lite Beverage Wrap\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
+DTSTART;TZID=America/New_York:20140507T201000
+DTEND;TZID=America/New_York:20140507T231000
+DTSTAMP:20140429T145238Z
+UID:381038@mlb.com
+CREATED:20130904T143454Z
+DESCRIPTION:Chi Cubs at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_07_chnmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2014\n\nLocal TV: WCIU, ESPN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Chi Cubs at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_27_chnmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_07_chnmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130528T201000
-DTEND;TZID=America/New_York:20130528T231000
-DTSTAMP:20130331T163510Z
-UID:347511@mlb.com
-CREATED:20120910T223856Z
-DESCRIPTION:Chi Cubs at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_28_chnmlb_chamlb_1\n\nPromotions/Giveaways: \n    Presented by United\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
+DTSTART;TZID=America/New_York:20140508T201000
+DTEND;TZID=America/New_York:20140508T231000
+DTSTAMP:20140429T145238Z
+UID:381052@mlb.com
+CREATED:20130904T143458Z
+DESCRIPTION:Chi Cubs at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_08_chnmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Chi Cubs at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_28_chnmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_08_chnmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130606T201000
-DTEND;TZID=America/New_York:20130606T231000
-DTSTAMP:20130331T163510Z
-UID:347641@mlb.com
-CREATED:20120910T223911Z
-DESCRIPTION:Oakland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_06_oakmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194432Z
+DTSTART;TZID=America/New_York:20140509T201000
+DTEND;TZID=America/New_York:20140509T231000
+DTSTAMP:20140429T145238Z
+UID:381061@mlb.com
+CREATED:20130904T143501Z
+DESCRIPTION:Arizona at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_09_arimlb_chamlb_1\n\nPromotions/Giveaways: \n    Miller de Mayo Celebration and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2014\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Oakland at Chi White Sox
+SUMMARY:Arizona at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_06_oakmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_09_arimlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130607T201000
-DTEND;TZID=America/New_York:20130607T231000
-DTSTAMP:20130331T163510Z
-UID:347655@mlb.com
-CREATED:20120910T223913Z
-DESCRIPTION:Oakland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_07_oakmlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194432Z
+DTSTART;TZID=America/New_York:20140510T191000
+DTEND;TZID=America/New_York:20140510T221000
+DTSTAMP:20140429T145238Z
+UID:381076@mlb.com
+CREATED:20130904T143505Z
+DESCRIPTION:Arizona at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_10_arimlb_chamlb_1\n\nPromotions/Giveaways: \n    Pink Out Night\n    Pink White Sox Scarf\n    Mother-Son Night\n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Oakland at Chi White Sox
+SUMMARY:Arizona at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_07_oakmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_10_arimlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130608T161000
-DTEND;TZID=America/New_York:20130608T191000
-DTSTAMP:20130331T163510Z
-UID:347672@mlb.com
-CREATED:20120910T223915Z
-DESCRIPTION:Oakland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_08_oakmlb_chamlb_1\n\nPromotions/Giveaways: \n    1983 White Sox (XL) T-shirt\n    Southpaw's Birthday Party\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130118T222321Z
+DTSTART;TZID=America/New_York:20140511T141000
+DTEND;TZID=America/New_York:20140511T171000
+DTSTAMP:20140429T145238Z
+UID:381091@mlb.com
+CREATED:20130904T143510Z
+DESCRIPTION:Arizona at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_11_arimlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n    Mother's Day\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Oakland at Chi White Sox
+SUMMARY:Arizona at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_08_oakmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_11_arimlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130609T141000
-DTEND;TZID=America/New_York:20130609T171000
-DTSTAMP:20130331T163510Z
-UID:347686@mlb.com
-CREATED:20120910T223916Z
-DESCRIPTION:Oakland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_09_oakmlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n    Father/Daughter Day\n    1983 White Sox (XL) Kids Jersey\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Oakland at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_09_oakmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130610T201000
-DTEND;TZID=America/New_York:20130610T231000
-DTSTAMP:20130331T163510Z
-UID:347700@mlb.com
-CREATED:20120910T223918Z
-DESCRIPTION:Toronto at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_10_tormlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2013\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Toronto at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_10_tormlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130611T201000
-DTEND;TZID=America/New_York:20130611T231000
-DTSTAMP:20130331T163510Z
-UID:347714@mlb.com
-CREATED:20120910T223919Z
-DESCRIPTION:Toronto at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_11_tormlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Toronto at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_11_tormlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130612T201000
-DTEND;TZID=America/New_York:20130612T231000
-DTSTAMP:20130331T163510Z
-UID:347729@mlb.com
-CREATED:20120910T223921Z
-DESCRIPTION:Toronto at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_12_tormlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Toronto at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_12_tormlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130625T201000
-DTEND;TZID=America/New_York:20130625T231000
-DTSTAMP:20130331T163510Z
-UID:347897@mlb.com
-CREATED:20120910T223940Z
-DESCRIPTION:NY Mets at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_25_nynmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2013\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194434Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:NY Mets at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_25_nynmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130626T201000
-DTEND;TZID=America/New_York:20130626T231000
-DTSTAMP:20130331T163510Z
-UID:347912@mlb.com
-CREATED:20120910T223942Z
-DESCRIPTION:NY Mets at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_26_nynmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194435Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:NY Mets at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_26_nynmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130628T201000
-DTEND;TZID=America/New_York:20130628T231000
-DTSTAMP:20130331T163510Z
-UID:347932@mlb.com
-CREATED:20120910T223944Z
-DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_28_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Mullet Night and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194435Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Cleveland at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_28_clemlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130629T161000
-DTEND;TZID=America/New_York:20130629T191000
-DTSTAMP:20130331T163510Z
-UID:347948@mlb.com
-CREATED:20120910T223946Z
-DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_29_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Billy Pierce Replica Statue\n    Illini Day\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130118T222335Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Cleveland at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_29_clemlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130630T141000
-DTEND;TZID=America/New_York:20130630T171000
-DTSTAMP:20130331T163510Z
-UID:347962@mlb.com
-CREATED:20120910T223948Z
-DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_30_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194429Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Cleveland at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_30_clemlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130702T201000
-DTEND;TZID=America/New_York:20130702T231000
-DTSTAMP:20130331T163510Z
-UID:347982@mlb.com
-CREATED:20120910T223950Z
-DESCRIPTION:Baltimore at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_02_balmlb_chamlb_1\n\nPromotions/Giveaways: \n    Polish Heritage Night\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2013\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194430Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Baltimore at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_02_balmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130703T191000
-DTEND;TZID=America/New_York:20130703T221000
-DTSTAMP:20130331T163510Z
-UID:347997@mlb.com
-CREATED:20120910T223952Z
-DESCRIPTION:Baltimore at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_03_balmlb_chamlb_1\n\nPromotions/Giveaways: \n    Independence Day Celebration and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194430Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Baltimore at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_03_balmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130704T141000
-DTEND;TZID=America/New_York:20130704T171000
-DTSTAMP:20130331T163510Z
-UID:348012@mlb.com
-CREATED:20120910T223954Z
-DESCRIPTION:Baltimore at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_04_balmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194430Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Baltimore at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_04_balmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130716T033300
-DTEND;TZID=America/New_York:20130716T063300
-DTSTAMP:20130331T163510Z
-UID:348170@mlb.com
-CREATED:20120910T224011Z
-DESCRIPTION:All-Star: AL All-Stars at NL All-Stars\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_16_aasmlb_nasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2013\n
-LAST-MODIFIED:20130108T194431Z
-LOCATION:Citi Field, Flushing
-SUMMARY:All-Star: AL All-Stars at NL All-Stars
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_16_aasmlb_nasmlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130719T201000
-DTEND;TZID=America/New_York:20130719T231000
-DTSTAMP:20130331T163510Z
-UID:348172@mlb.com
-CREATED:20120910T224012Z
-DESCRIPTION:Atlanta at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_19_atlmlb_chamlb_1\n\nPromotions/Giveaways: \n    Giveaway and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Atlanta at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_19_atlmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130720T160500
-DTEND;TZID=America/New_York:20130720T190500
-DTSTAMP:20130331T163510Z
-UID:348187@mlb.com
-CREATED:20120910T224013Z
-DESCRIPTION:Atlanta at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_20_atlmlb_chamlb_1\n\nPromotions/Giveaways: \n    Star Wars Day\n    White Sox Replica Batting Helmet\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2013\n\nLocal TV: FOX\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Atlanta at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_20_atlmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130721T141000
-DTEND;TZID=America/New_York:20130721T171000
-DTSTAMP:20130331T163510Z
-UID:348202@mlb.com
-CREATED:20120910T224015Z
-DESCRIPTION:Atlanta at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_21_atlmlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Atlanta at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_21_atlmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130722T201000
-DTEND;TZID=America/New_York:20130722T231000
-DTSTAMP:20130331T163510Z
-UID:348220@mlb.com
-CREATED:20120910T224017Z
-DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_22_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2013\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Detroit at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_22_detmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130723T201000
-DTEND;TZID=America/New_York:20130723T231000
-DTSTAMP:20130331T163510Z
-UID:348234@mlb.com
-CREATED:20120910T224019Z
-DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_23_detmlb_chamlb_1\n\nPromotions/Giveaways: \n    Italian Heritage Festival on the Plaza\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Detroit at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_23_detmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130724T201000
-DTEND;TZID=America/New_York:20130724T231000
-DTSTAMP:20130331T163510Z
-UID:348249@mlb.com
-CREATED:20120910T224020Z
-DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_24_detmlb_chamlb_1\n\nPromotions/Giveaways: \n    Greek Heritage Festival on the Plaza\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Detroit at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_24_detmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130725T141000
-DTEND;TZID=America/New_York:20130725T171000
-DTSTAMP:20130331T163510Z
-UID:348264@mlb.com
-CREATED:20120910T224022Z
-DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_25_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194432Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Detroit at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_25_detmlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130726T201000
-DTEND;TZID=America/New_York:20130726T231000
-DTSTAMP:20130331T163510Z
-UID:348277@mlb.com
-CREATED:20120910T224023Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_26_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194432Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Kansas City at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_26_kcamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130727T191000
-DTEND;TZID=America/New_York:20130727T221000
-DTSTAMP:20130331T163510Z
-UID:348293@mlb.com
-CREATED:20120910T224025Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_27_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Orgullo Sox Festival on the Plaza\n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194432Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Kansas City at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_27_kcamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130728T141000
-DTEND;TZID=America/New_York:20130728T171000
-DTSTAMP:20130331T163510Z
-UID:348308@mlb.com
-CREATED:20120910T224027Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_28_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194432Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Kansas City at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_28_kcamlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130805T201000
-DTEND;TZID=America/New_York:20130805T231000
-DTSTAMP:20130331T163510Z
-UID:348417@mlb.com
-CREATED:20120910T224039Z
-DESCRIPTION:NY Yankees at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_05_nyamlb_chamlb_1\n\nPromotions/Giveaways: \n    Green Game and White Sox Garden Gnome Powered by Constellation\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
+DTSTART;TZID=America/New_York:20140522T201000
+DTEND;TZID=America/New_York:20140522T231000
+DTSTAMP:20140429T145238Z
+UID:381240@mlb.com
+CREATED:20130904T143555Z
+DESCRIPTION:NY Yankees at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_22_nyamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2014\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:NY Yankees at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_05_nyamlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_22_nyamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130806T201000
-DTEND;TZID=America/New_York:20130806T231000
-DTSTAMP:20130331T163510Z
-UID:348429@mlb.com
-CREATED:20120910T224041Z
-DESCRIPTION:NY Yankees at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_06_nyamlb_chamlb_1\n\nPromotions/Giveaways: \n    Chicago Bulls Night\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
+DTSTART;TZID=America/New_York:20140523T201000
+DTEND;TZID=America/New_York:20140523T231000
+DTSTAMP:20140429T145238Z
+UID:381257@mlb.com
+CREATED:20130904T143600Z
+DESCRIPTION:NY Yankees at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_23_nyamlb_chamlb_1\n\nPromotions/Giveaways: \n    Ladies Night\n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:NY Yankees at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_06_nyamlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_23_nyamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130807T201000
-DTEND;TZID=America/New_York:20130807T231000
-DTSTAMP:20130331T163510Z
-UID:348444@mlb.com
-CREATED:20120910T224042Z
-DESCRIPTION:NY Yankees at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_07_nyamlb_chamlb_1\n\nPromotions/Giveaways: \n    Police and Fire Night and 1983 White Sox Tailgate Flag\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
+DTSTART;TZID=America/New_York:20140524T141000
+DTEND;TZID=America/New_York:20140524T171000
+DTSTAMP:20140429T145238Z
+UID:381272@mlb.com
+CREATED:20130904T143604Z
+DESCRIPTION:NY Yankees at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_24_nyamlb_chamlb_1\n\nPromotions/Giveaways: \n    Chris Sale Bobblehead\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:NY Yankees at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_07_nyamlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_24_nyamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130809T201000
-DTEND;TZID=America/New_York:20130809T231000
-DTSTAMP:20130331T163510Z
-UID:348463@mlb.com
-CREATED:20120910T224044Z
-DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_09_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Country Music Night and Fireworks\n    Big 10 Festival on the Plaza\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
+DTSTART;TZID=America/New_York:20140525T141000
+DTEND;TZID=America/New_York:20140525T171000
+DTSTAMP:20140429T145238Z
+UID:381287@mlb.com
+CREATED:20130904T143609Z
+DESCRIPTION:NY Yankees at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_25_nyamlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Minnesota at Chi White Sox
+SUMMARY:NY Yankees at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_09_minmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_25_nyamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130810T160500
-DTEND;TZID=America/New_York:20130810T190500
-DTSTAMP:20130331T163510Z
-UID:348480@mlb.com
-CREATED:20120910T224046Z
-DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_10_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Ron Kittle Bobblehead\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: FOX\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
+DTSTART;TZID=America/New_York:20140526T141000
+DTEND;TZID=America/New_York:20140526T171000
+DTSTAMP:20140429T145238Z
+UID:381297@mlb.com
+CREATED:20130904T143611Z
+DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_26_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Memorial Day  - Military Appreciation\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Minnesota at Chi White Sox
+SUMMARY:Cleveland at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_10_minmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_26_clemlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130811T141000
-DTEND;TZID=America/New_York:20130811T171000
-DTSTAMP:20130331T163510Z
-UID:348493@mlb.com
-CREATED:20120910T224048Z
-DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_11_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n    Spirit and Mascot Day\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
+DTSTART;TZID=America/New_York:20140527T201000
+DTEND;TZID=America/New_York:20140527T231000
+DTSTAMP:20140429T145238Z
+UID:381312@mlb.com
+CREATED:20130904T143616Z
+DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_27_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2014\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Minnesota at Chi White Sox
+SUMMARY:Cleveland at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_11_minmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_27_clemlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130812T201000
-DTEND;TZID=America/New_York:20130812T231000
-DTSTAMP:20130331T163510Z
-UID:348507@mlb.com
-CREATED:20120910T224049Z
-DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_12_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
+DTSTART;TZID=America/New_York:20140528T201000
+DTEND;TZID=America/New_York:20140528T231000
+DTSTAMP:20140429T145238Z
+UID:381327@mlb.com
+CREATED:20130904T143620Z
+DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_28_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Cleveland at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_28_clemlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140530T201000
+DTEND;TZID=America/New_York:20140530T231000
+DTSTAMP:20140429T145238Z
+UID:381358@mlb.com
+CREATED:20130904T143629Z
+DESCRIPTION:San Diego at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_30_sdnmlb_chamlb_1\n\nPromotions/Giveaways: \n    Sports & Marketing Career Fair\n    Northwest Indiana Night\n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:San Diego at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_30_sdnmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140531T141000
+DTEND;TZID=America/New_York:20140531T171000
+DTSTAMP:20140429T145238Z
+UID:381373@mlb.com
+CREATED:20130904T143634Z
+DESCRIPTION:San Diego at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_31_sdnmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Kids Baseball Glove\n    Boy Scout Day\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=05&y=2014\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:San Diego at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_05_31_sdnmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140601T141000
+DTEND;TZID=America/New_York:20140601T171000
+DTSTAMP:20140429T145238Z
+UID:381388@mlb.com
+CREATED:20130904T143638Z
+DESCRIPTION:San Diego at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_01_sdnmlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n    Southpaw's Birthday Party\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142218Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:San Diego at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_01_sdnmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140609T201000
+DTEND;TZID=America/New_York:20140609T231000
+DTSTAMP:20140429T145238Z
+UID:381488@mlb.com
+CREATED:20130904T143707Z
+DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_09_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142218Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Detroit at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_12_detmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_09_detmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130813T201000
-DTEND;TZID=America/New_York:20130813T231000
-DTSTAMP:20130331T163510Z
-UID:348518@mlb.com
-CREATED:20120910T224051Z
-DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_13_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
+DTSTART;TZID=America/New_York:20140610T201000
+DTEND;TZID=America/New_York:20140610T231000
+DTSTAMP:20140429T145238Z
+UID:381500@mlb.com
+CREATED:20130904T143711Z
+DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_10_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2014\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142218Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Detroit at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_13_detmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_10_detmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130814T141000
-DTEND;TZID=America/New_York:20130814T171000
-DTSTAMP:20130331T163510Z
-UID:348533@mlb.com
-CREATED:20120910T224052Z
-DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_14_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194434Z
+DTSTART;TZID=America/New_York:20140611T201000
+DTEND;TZID=America/New_York:20140611T231000
+DTSTAMP:20140429T145238Z
+UID:381516@mlb.com
+CREATED:20130904T143716Z
+DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_11_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2014\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142215Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Detroit at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_14_detmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_11_detmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130823T201000
-DTEND;TZID=America/New_York:20130823T231000
-DTSTAMP:20130331T163510Z
-UID:348656@mlb.com
-CREATED:20120910T224105Z
-DESCRIPTION:Texas at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_23_texmlb_chamlb_1\n\nPromotions/Giveaways: \n    Elvis Night and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194434Z
+DTSTART;TZID=America/New_York:20140612T201000
+DTEND;TZID=America/New_York:20140612T231000
+DTSTAMP:20140429T145238Z
+UID:381530@mlb.com
+CREATED:20130904T143720Z
+DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_12_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142215Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Texas at Chi White Sox
+SUMMARY:Detroit at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_23_texmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_12_detmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130824T191000
-DTEND;TZID=America/New_York:20130824T221000
-DTSTAMP:20130331T163510Z
-UID:348674@mlb.com
-CREATED:20120910T224108Z
-DESCRIPTION:Texas at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_24_texmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130306T220622Z
+DTSTART;TZID=America/New_York:20140613T201000
+DTEND;TZID=America/New_York:20140613T231000
+DTSTAMP:20140429T145238Z
+UID:381543@mlb.com
+CREATED:20130904T143723Z
+DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_13_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Mullet Night and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142215Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Texas at Chi White Sox
+SUMMARY:Kansas City at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_24_texmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_13_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130825T141000
-DTEND;TZID=America/New_York:20130825T171000
-DTSTAMP:20130331T163510Z
-UID:348687@mlb.com
-CREATED:20120910T224109Z
-DESCRIPTION:Texas at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_25_texmlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194430Z
+DTSTART;TZID=America/New_York:20140614T141000
+DTEND;TZID=America/New_York:20140614T171000
+DTSTAMP:20140429T145238Z
+UID:381558@mlb.com
+CREATED:20130904T143728Z
+DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_14_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Cap\n    Father Daughter Day\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2014\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142215Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Texas at Chi White Sox
+SUMMARY:Kansas City at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_25_texmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_14_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130826T201000
-DTEND;TZID=America/New_York:20130826T231000
-DTSTAMP:20130331T163510Z
-UID:348694@mlb.com
-CREATED:20120910T224110Z
-DESCRIPTION:Houston at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_26_houmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194430Z
+DTSTART;TZID=America/New_York:20140615T141000
+DTEND;TZID=America/New_York:20140615T171000
+DTSTAMP:20140429T145238Z
+UID:381573@mlb.com
+CREATED:20130904T143732Z
+DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_15_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n    Father's Day\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142215Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Kansas City at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_15_kcamlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140617T201000
+DTEND;TZID=America/New_York:20140617T231000
+DTSTAMP:20140429T145238Z
+UID:381605@mlb.com
+CREATED:20130904T143741Z
+DESCRIPTION:San Francisco at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_17_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:San Francisco at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_17_sfnmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140618T141000
+DTEND;TZID=America/New_York:20140618T171000
+DTSTAMP:20140429T145238Z
+UID:381620@mlb.com
+CREATED:20130904T143746Z
+DESCRIPTION:San Francisco at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_18_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2014\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:San Francisco at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_18_sfnmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140630T201000
+DTEND;TZID=America/New_York:20140630T231000
+DTSTAMP:20140429T145238Z
+UID:381775@mlb.com
+CREATED:20130904T143831Z
+DESCRIPTION:LA Angels at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_30_anamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=06&y=2014\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:LA Angels at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_30_anamlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140701T201000
+DTEND;TZID=America/New_York:20140701T231000
+DTSTAMP:20140429T145238Z
+UID:381786@mlb.com
+CREATED:20130904T143834Z
+DESCRIPTION:LA Angels at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_01_anamlb_chamlb_1\n\nPromotions/Giveaways: \n    Polish Heritage Night\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2014\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:LA Angels at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_01_anamlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140702T201000
+DTEND;TZID=America/New_York:20140702T231000
+DTSTAMP:20140429T145238Z
+UID:381801@mlb.com
+CREATED:20130904T143838Z
+DESCRIPTION:LA Angels at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_02_anamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:LA Angels at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_02_anamlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140704T191000
+DTEND;TZID=America/New_York:20140704T221000
+DTSTAMP:20140429T145238Z
+UID:381835@mlb.com
+CREATED:20130904T143848Z
+DESCRIPTION:Seattle at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_04_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Tailgate Flag\n    Independence Day Celebration and Fireworks\n    Military Appreciation\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Seattle at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_04_seamlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140705T141000
+DTEND;TZID=America/New_York:20140705T171000
+DTSTAMP:20140429T145238Z
+UID:381850@mlb.com
+CREATED:20130904T143853Z
+DESCRIPTION:Seattle at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_05_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Home Kids Jersey (XL)\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2014\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Seattle at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_05_seamlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140706T141000
+DTEND;TZID=America/New_York:20140706T171000
+DTSTAMP:20140429T145238Z
+UID:381865@mlb.com
+CREATED:20130904T143857Z
+DESCRIPTION:Seattle at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_06_seamlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Seattle at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_06_seamlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140715T033300
+DTEND;TZID=America/New_York:20140715T063300
+DTSTAMP:20140429T145238Z
+UID:381971@mlb.com
+CREATED:20130904T143928Z
+DESCRIPTION:All-Star: NL All-Stars at AL All-Stars\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_15_nasmlb_aasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2014\n
+LAST-MODIFIED:20130910T125100Z
+LOCATION:Target Field, Minneapolis
+SUMMARY:All-Star: NL All-Stars at AL All-Stars
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_15_nasmlb_aasmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140718T201000
+DTEND;TZID=America/New_York:20140718T231000
+DTSTAMP:20140429T145238Z
+UID:381977@mlb.com
+CREATED:20130904T143930Z
+DESCRIPTION:Houston at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_18_houmlb_chamlb_1\n\nPromotions/Giveaways: \n    Rat Pack Night and Fireworks\n    Italian Heritage Night\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2014\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Houston at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_26_houmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_18_houmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130827T201000
-DTEND;TZID=America/New_York:20130827T231000
-DTSTAMP:20130331T163510Z
-UID:348705@mlb.com
-CREATED:20120910T224111Z
-DESCRIPTION:Houston at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_27_houmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194430Z
+DTSTART;TZID=America/New_York:20140719T191000
+DTEND;TZID=America/New_York:20140719T221000
+DTSTAMP:20140429T145238Z
+UID:381992@mlb.com
+CREATED:20130904T143934Z
+DESCRIPTION:Houston at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_19_houmlb_chamlb_1\n\nPromotions/Giveaways: \n    Noche Tropical\n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Houston at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_27_houmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_19_houmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130828T201000
-DTEND;TZID=America/New_York:20130828T231000
-DTSTAMP:20130331T163510Z
-UID:348720@mlb.com
-CREATED:20120910T224113Z
-DESCRIPTION:Houston at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_28_houmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194430Z
+DTSTART;TZID=America/New_York:20140720T141000
+DTEND;TZID=America/New_York:20140720T171000
+DTSTAMP:20140429T145238Z
+UID:382007@mlb.com
+CREATED:20130904T143938Z
+DESCRIPTION:Houston at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_20_houmlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n    Retro White Sox Pennant\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Houston at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_28_houmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_20_houmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130909T201000
-DTEND;TZID=America/New_York:20130909T231000
-DTSTAMP:20130331T163510Z
-UID:348886@mlb.com
-CREATED:20120910T224131Z
-DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_09_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
+DTSTART;TZID=America/New_York:20140721T201000
+DTEND;TZID=America/New_York:20140721T231000
+DTSTAMP:20140429T145238Z
+UID:382022@mlb.com
+CREATED:20130904T143943Z
+DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_21_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Detroit at Chi White Sox
+SUMMARY:Kansas City at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_09_detmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_21_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130910T201000
-DTEND;TZID=America/New_York:20130910T231000
-DTSTAMP:20130331T163510Z
-UID:348897@mlb.com
-CREATED:20120910T224132Z
-DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_10_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2013\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
+DTSTART;TZID=America/New_York:20140722T201000
+DTEND;TZID=America/New_York:20140722T231000
+DTSTAMP:20140429T145238Z
+UID:382035@mlb.com
+CREATED:20130904T143947Z
+DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_22_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Greek Heritage Night\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142218Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Detroit at Chi White Sox
+SUMMARY:Kansas City at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_10_detmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_22_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130911T201000
-DTEND;TZID=America/New_York:20130911T231000
-DTSTAMP:20130331T163510Z
-UID:348912@mlb.com
-CREATED:20120910T224134Z
-DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_11_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
+DTSTART;TZID=America/New_York:20140723T141000
+DTEND;TZID=America/New_York:20140723T171000
+DTSTAMP:20140429T145238Z
+UID:382050@mlb.com
+CREATED:20130904T143951Z
+DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_23_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=07&y=2014\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142218Z
 LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Detroit at Chi White Sox
+SUMMARY:Kansas City at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_11_detmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_23_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130912T201000
-DTEND;TZID=America/New_York:20130912T231000
-DTSTAMP:20130331T163510Z
-UID:348926@mlb.com
-CREATED:20120910T224136Z
-DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_12_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Cleveland at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_12_clemlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130913T141000
-DTEND;TZID=America/New_York:20130913T171000
-DTSTAMP:20130331T163510Z
-UID:348937@mlb.com
-CREATED:20120910T224137Z
-DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_13_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194431Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Cleveland at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_13_clemlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130914T191000
-DTEND;TZID=America/New_York:20130914T221000
-DTSTAMP:20130331T163510Z
-UID:348953@mlb.com
-CREATED:20120910T224139Z
-DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_14_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Halfway to St. Patrick's Day, White Sox Green Caps and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194432Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Cleveland at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_14_clemlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130915T141000
-DTEND;TZID=America/New_York:20130915T171000
-DTSTAMP:20130331T163510Z
-UID:348967@mlb.com
-CREATED:20120910T224140Z
-DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_15_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194432Z
-LOCATION:U.S. Cellular Field, Chicago
-SUMMARY:Cleveland at Chi White Sox
-TRANSP:TRANSPARENT
-SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_15_clemlb_chamlb_1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130916T201000
-DTEND;TZID=America/New_York:20130916T231000
-DTSTAMP:20130331T163510Z
-UID:348985@mlb.com
-CREATED:20120910T224142Z
-DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_16_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Dog Day #2\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194432Z
+DTSTART;TZID=America/New_York:20140801T201000
+DTEND;TZID=America/New_York:20140801T231000
+DTSTAMP:20140429T145238Z
+UID:382173@mlb.com
+CREATED:20130904T144030Z
+DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_01_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Elvis Night and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142215Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Minnesota at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_16_minmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_01_minmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130917T201000
-DTEND;TZID=America/New_York:20130917T231000
-DTSTAMP:20130331T163510Z
-UID:348998@mlb.com
-CREATED:20120910T224144Z
-DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_17_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194432Z
+DTSTART;TZID=America/New_York:20140802T191000
+DTEND;TZID=America/New_York:20140802T221000
+DTSTAMP:20140429T145238Z
+UID:382188@mlb.com
+CREATED:20130904T144034Z
+DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_02_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Frank Thomas Replica Hall of Fame Plaque\n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142215Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Minnesota at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_17_minmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_02_minmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130918T141000
-DTEND;TZID=America/New_York:20130918T171000
-DTSTAMP:20130331T163510Z
-UID:349013@mlb.com
-CREATED:20120910T224146Z
-DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_18_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194432Z
+DTSTART;TZID=America/New_York:20140803T141000
+DTEND;TZID=America/New_York:20140803T171000
+DTSTAMP:20140429T145238Z
+UID:382203@mlb.com
+CREATED:20130904T144039Z
+DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_03_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Minnesota at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_18_minmlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_03_minmlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130926T201000
-DTEND;TZID=America/New_York:20130926T231000
-DTSTAMP:20130331T163510Z
-UID:349123@mlb.com
-CREATED:20120910T224158Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_26_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
+DTSTART;TZID=America/New_York:20140804T201000
+DTEND;TZID=America/New_York:20140804T231000
+DTSTAMP:20140429T145238Z
+UID:382216@mlb.com
+CREATED:20130904T144042Z
+DESCRIPTION:Texas at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_04_texmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Texas at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_04_texmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140805T201000
+DTEND;TZID=America/New_York:20140805T231000
+DTSTAMP:20140429T145238Z
+UID:382231@mlb.com
+CREATED:20130904T144047Z
+DESCRIPTION:Texas at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_05_texmlb_chamlb_1\n\nPromotions/Giveaways: \n    Police and Fire Night\n    1983 White Sox Reusable Bag\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Texas at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_05_texmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140806T141000
+DTEND;TZID=America/New_York:20140806T171000
+DTSTAMP:20140429T145238Z
+UID:382246@mlb.com
+CREATED:20130904T144051Z
+DESCRIPTION:Texas at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_06_texmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Texas at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_06_texmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140815T201000
+DTEND;TZID=America/New_York:20140815T231000
+DTSTAMP:20140429T145238Z
+UID:382370@mlb.com
+CREATED:20130904T144128Z
+DESCRIPTION:Toronto at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_15_tormlb_chamlb_1\n\nPromotions/Giveaways: \n    Country Music Night and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Toronto at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_15_tormlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140816T191000
+DTEND;TZID=America/New_York:20140816T221000
+DTSTAMP:20140429T145238Z
+UID:382385@mlb.com
+CREATED:20130904T144132Z
+DESCRIPTION:Toronto at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_16_tormlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Toronto at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_16_tormlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140817T141000
+DTEND;TZID=America/New_York:20140817T171000
+DTSTAMP:20140429T145238Z
+UID:382400@mlb.com
+CREATED:20130904T144137Z
+DESCRIPTION:Toronto at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_17_tormlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n    Spirit & Mascot Day\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Toronto at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_17_tormlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140818T201000
+DTEND;TZID=America/New_York:20140818T231000
+DTSTAMP:20140429T145238Z
+UID:382404@mlb.com
+CREATED:20130904T144138Z
+DESCRIPTION:Baltimore at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_18_balmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Baltimore at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_18_balmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140819T201000
+DTEND;TZID=America/New_York:20140819T231000
+DTSTAMP:20140429T145238Z
+UID:382412@mlb.com
+CREATED:20130904T144140Z
+DESCRIPTION:Baltimore at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_19_balmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Baltimore at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_19_balmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140820T201000
+DTEND;TZID=America/New_York:20140820T231000
+DTSTAMP:20140429T145238Z
+UID:382427@mlb.com
+CREATED:20130904T144144Z
+DESCRIPTION:Baltimore at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_20_balmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142216Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Baltimore at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_20_balmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140826T201000
+DTEND;TZID=America/New_York:20140826T231000
+DTSTAMP:20140429T145238Z
+UID:382504@mlb.com
+CREATED:20130904T144207Z
+DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_26_clemlb_chamlb_1\n\nPromotions/Giveaways: \n    Green Game\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Cleveland at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_26_clemlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140827T201000
+DTEND;TZID=America/New_York:20140827T231000
+DTSTAMP:20140429T145238Z
+UID:382519@mlb.com
+CREATED:20130904T144212Z
+DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_27_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Cleveland at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_27_clemlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140828T201000
+DTEND;TZID=America/New_York:20140828T231000
+DTSTAMP:20140429T145238Z
+UID:382533@mlb.com
+CREATED:20130904T144216Z
+DESCRIPTION:Cleveland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_28_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Cleveland at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_28_clemlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140829T201000
+DTEND;TZID=America/New_York:20140829T231000
+DTSTAMP:20140429T145238Z
+UID:382545@mlb.com
+CREATED:20130904T144219Z
+DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_29_detmlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Detroit at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_29_detmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140830T191000
+DTEND;TZID=America/New_York:20140830T221000
+DTSTAMP:20140429T145238Z
+UID:382560@mlb.com
+CREATED:20130904T144224Z
+DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_30_detmlb_chamlb_1\n\nPromotions/Giveaways: \n    Tony La Russa Bobblehead\n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Detroit at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_30_detmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140831T141000
+DTEND;TZID=America/New_York:20140831T171000
+DTSTAMP:20140429T145238Z
+UID:382575@mlb.com
+CREATED:20130904T144228Z
+DESCRIPTION:Detroit at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_31_detmlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=08&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140421T142217Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Detroit at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_31_detmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140908T201000
+DTEND;TZID=America/New_York:20140908T231000
+DTSTAMP:20140429T145238Z
+UID:382686@mlb.com
+CREATED:20130904T144301Z
+DESCRIPTION:Oakland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_08_oakmlb_chamlb_1\n\nPromotions/Giveaways: \n    Bark at the Park\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140115T181127Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Oakland at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_08_oakmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140909T201000
+DTEND;TZID=America/New_York:20140909T231000
+DTSTAMP:20140429T145238Z
+UID:382700@mlb.com
+CREATED:20130904T144305Z
+DESCRIPTION:Oakland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_09_oakmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2014\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140115T181127Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Oakland at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_09_oakmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140910T201000
+DTEND;TZID=America/New_York:20140910T231000
+DTSTAMP:20140429T145238Z
+UID:382715@mlb.com
+CREATED:20130904T144309Z
+DESCRIPTION:Oakland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_10_oakmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2014\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140115T181127Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Oakland at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_10_oakmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140911T141000
+DTEND;TZID=America/New_York:20140911T171000
+DTSTAMP:20140429T145238Z
+UID:382725@mlb.com
+CREATED:20130904T144312Z
+DESCRIPTION:Oakland at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_11_oakmlb_chamlb_1\n\nPromotions/Giveaways: \n    Military and First Responders Appreciation Day\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140115T181128Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Oakland at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_11_oakmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140912T201000
+DTEND;TZID=America/New_York:20140912T231000
+DTSTAMP:20140429T145238Z
+UID:382739@mlb.com
+CREATED:20130904T144316Z
+DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_12_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    White Sox Irish Flat Cap\n    Halfway to St Patrick's Day and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2014\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140115T181128Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Minnesota at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_12_minmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140913T191000
+DTEND;TZID=America/New_York:20140913T221000
+DTSTAMP:20140429T145238Z
+UID:382754@mlb.com
+CREATED:20130904T144320Z
+DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_13_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2014\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140115T181128Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Minnesota at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_13_minmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140914T141000
+DTEND;TZID=America/New_York:20140914T171000
+DTSTAMP:20140429T145238Z
+UID:382769@mlb.com
+CREATED:20130904T144325Z
+DESCRIPTION:Minnesota at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_14_minmlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140115T181128Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:Minnesota at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_14_minmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20140925T201000
+DTEND;TZID=America/New_York:20140925T231000
+DTSTAMP:20140429T145238Z
+UID:382914@mlb.com
+CREATED:20130904T144407Z
+DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_25_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140115T181129Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Kansas City at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_26_kcamlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_25_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130927T201000
-DTEND;TZID=America/New_York:20130927T231000
-DTSTAMP:20130331T163510Z
-UID:349132@mlb.com
-CREATED:20120910T224159Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_27_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Hispanic Heritage Night and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2013\n\nLocal TV: CSN+\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
+DTSTART;TZID=America/New_York:20140926T201000
+DTEND;TZID=America/New_York:20140926T231000
+DTSTAMP:20140429T145238Z
+UID:382930@mlb.com
+CREATED:20130904T144412Z
+DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_26_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Hispanic Heritage Night and Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2014\n\nLocal TV: WCIU\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140115T181129Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Kansas City at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_27_kcamlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_26_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130928T191000
-DTEND;TZID=America/New_York:20130928T221000
-DTSTAMP:20130331T163510Z
-UID:349149@mlb.com
-CREATED:20120910T224201Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_28_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2013\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194433Z
+DTSTART;TZID=America/New_York:20140927T191000
+DTEND;TZID=America/New_York:20140927T221000
+DTSTAMP:20140429T145238Z
+UID:382945@mlb.com
+CREATED:20130904T144416Z
+DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_27_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Countdown to Halloween\n    Fireworks\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140115T181129Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Kansas City at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_28_kcamlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_27_kcamlb_chamlb_1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20130929T141000
-DTEND;TZID=America/New_York:20130929T171000
-DTSTAMP:20130331T163510Z
-UID:349163@mlb.com
-CREATED:20120910T224202Z
-DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_29_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n    Fan Appreciation Day\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2013\n\nLocal TV: WGN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
-LAST-MODIFIED:20130108T194434Z
+DTSTART;TZID=America/New_York:20140928T141000
+DTEND;TZID=America/New_York:20140928T171000
+DTSTAMP:20140429T145238Z
+UID:382960@mlb.com
+CREATED:20130904T144421Z
+DESCRIPTION:Kansas City at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_28_kcamlb_chamlb_1\n\nPromotions/Giveaways: \n    Family Sunday\n    Fan Appreciation Day\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=cws&m=09&y=2014\n\nLocal TV: CSN\nLocal Radio: 97.5 ESPN Deportes, WSCR 670
+LAST-MODIFIED:20140115T181130Z
 LOCATION:U.S. Cellular Field, Chicago
 SUMMARY:Kansas City at Chi White Sox
 TRANSP:TRANSPARENT
 SEQUENCE:0
-URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_29_kcamlb_chamlb_1
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_28_kcamlb_chamlb_1
 END:VEVENT
 END:VCALENDAR
